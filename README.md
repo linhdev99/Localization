@@ -35,4 +35,4 @@ Put your `localization.csv` (or any `.csv` file) in the same folder as the scrip
 ### 3. Run the Script
 
 ```bash
-python getChar.py
+python main.py
