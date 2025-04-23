@@ -1,32 +1,32 @@
 Keys,English,Vietnamese,Chinese (Simplified),$Chinese (Traditional),Japanese,French,German,Spanish,Portuguese [pt-PT],Arabic,Russian,Korean,Italian,Hindi,Philipine [tl],Indo,Thai,Turkis
 TXT_HERO_AQUA_FREEZER_DES,"A radiant girl of light with a warm smile and wings of hope — she shines wherever she goes.
 Decreases the target's attack speed by {p0}% for {p1} second(s) on every attack. (max stack: {p2})","Một cô gái ánh sáng rạng rỡ với nụ cười ấm áp và đôi cánh hy vọng - cô ấy tỏa sáng ở bất cứ nơi nào cô ấy đến.
-Giảm tốc độ tấn công của mục tiêu xuống {p0}% trong {p1} giây trên mỗi đòn tấn công. (cộng dồn tối đa {p2} tầng)","一个带着温暖微笑和希望翅膀的光芒四射的女孩——无论走到哪里，她都会闪闪发光。
+Giảm tốc độ tấn công của mục tiêu xuống {p0}% trong {p1} giây trên mỗi đòn tấn công. (ngăn xếp tối đa: {p2})","一个带着温暖微笑和希望翅膀的光芒四射的女孩——无论走到哪里，她都会闪闪发光。
 每次攻击将目标的攻击速度降低 {p0}%，持续 {p1} 秒。 （最大堆栈：{p2}）",,"温かい笑顔と希望の翼を持つ、どこまでも輝く光の少女。
 攻撃するたびに、ターゲットの攻撃速度が {p1} 秒間 {p0}% 減少します。 (最大スタック: {p2})","Une fille de lumière rayonnante avec un sourire chaleureux et des ailes d’espoir – elle brille partout où elle va.
 Réduit la vitesse d'attaque de la cible de {p0} % pendant {p1} seconde(s) à chaque attaque. (pile maximale : {p2})","Ein strahlendes Mädchen voller Licht mit einem warmen Lächeln und Flügeln der Hoffnung – sie strahlt, wohin sie auch geht.
-Verringert die Angriffsgeschwindigkeit des Ziels für {p1} Sekunde(n) bei jedem Angriff um {p0} %. (maximaler Stapel: {p2})","Una niña radiante de luz con una cálida sonrisa y alas de esperanza: brilla dondequiera que vaya.
+Verringert die Angriffsgeschwindigkeit des Ziels bei jedem Angriff {p1} Sekunde(n) lang um {p0} %. (maximaler Stapel: {p2})","Una niña radiante de luz con una cálida sonrisa y alas de esperanza: brilla donde quiera que vaya.
 Disminuye la velocidad de ataque del objetivo en un {p0}% durante {p1} segundo(s) en cada ataque. (pila máxima: {p2})","Uma garota radiante de luz com um sorriso caloroso e asas de esperança – ela brilha onde quer que vá.
 Diminui a velocidade de ataque do alvo em {p0}% por {p1} segundo(s) em cada ataque. (pilha máxima: {p2})","فتاة النور المشعة ذات الابتسامة الدافئة وأجنحة الأمل - تشرق أينما ذهبت.
 يقلل من سرعة هجوم الهدف بنسبة {p0}% لمدة {p1} ثانية (ث) في كل هجوم. (الحد الأقصى للمكدس: {p2})","Сияющая девушка света с теплой улыбкой и крыльями надежды — она сияет, куда бы она ни пошла.
 Уменьшает скорость атаки цели на {p0}% на {p1} секунд при каждой атаке. (максимальный стек: {p2})","따뜻한 미소와 희망의 날개를 지닌 빛나는 소녀, 그녀는 어딜가든 빛난다.
 매 공격마다 대상의 공격 속도를 {p1}초 동안 {p0}%만큼 감소시킵니다. (최대 스택: {p2})","Una ragazza radiosa di luce con un sorriso caloroso e ali di speranza: brilla ovunque vada.
 Diminuisce la velocità di attacco del bersaglio del {p0}% per {p1} secondo/i a ogni attacco. (stack massimo: {p2})","एक गर्म मुस्कान और आशा के पंखों के साथ प्रकाश की एक उज्ज्वल लड़की - वह जहां भी जाती है चमकती है।
-प्रत्येक हमले पर लक्ष्य की हमले की गति को {p1} सेकंड के लिए {p0}% कम कर देता है। (अधिकतम स्टैक: {पी2})","Isang nagniningning na batang babae ng liwanag na may mainit na ngiti at mga pakpak ng pag-asa — nagniningning siya saan man siya magpunta.
-Pinapababa ang bilis ng pag-atake ng target ng {p0}% para sa {p1} (mga) segundo sa bawat pag-atake. (max na stack: {p2})","Seorang gadis bercahaya dengan senyuman hangat dan sayap harapan — dia bersinar kemanapun dia pergi.
+प्रत्येक हमले पर लक्ष्य की हमले की गति को {p1} सेकंड के लिए {p0}% कम कर देता है। (अधिकतम स्टैक: {पी2})","Isang maningning na batang babae ng liwanag na may mainit na ngiti at mga pakpak ng pag-asa — nagniningning siya saan man siya magpunta.
+Binabawasan ang bilis ng pag-atake ng target ng {p0}% para sa {p1} (mga) segundo sa bawat pag-atake. (max na stack: {p2})","Seorang gadis bercahaya dengan senyuman hangat dan sayap harapan — dia bersinar kemanapun dia pergi.
 Mengurangi kecepatan serangan target sebesar {p0}% selama {p1} detik pada setiap serangan. (tumpukan maksimal: {p2})","เด็กสาวที่เปล่งประกายแห่งแสงสว่างพร้อมรอยยิ้มอันอบอุ่นและปีกแห่งความหวัง เธอเปล่งประกายในทุกที่ที่เธอไป
 ลดความเร็วการโจมตีของเป้าหมายลง {p0}% เป็นเวลา {p1} วินาทีในทุกการโจมตี (สแต็กสูงสุด: {p2})","Sıcak bir gülümsemesi ve umut kanatlarıyla ışık saçan bir kız; gittiği her yerde parlıyor.
-Her saldırıda, hedefin saldırı hızını {p1} saniye boyunca %{p0} azaltır. (maks. yığın: {p2})"
+Her saldırıda, hedefin saldırı hızını {p1} saniye boyunca %{p0} azaltır. (maks yığın: {p2})"
 TXT_HERO_AZURE_DRAGON_DES,"A hero who is a dragon and can attack with a laser beam with his skill.
 This effect is activated only when 1 [Azure Dragon] is on the board.
 When {p0} Hero are defeated within a radius, the Hero enhances its attack.
 When enhanced, shoots a laser that deals {p1} dmage to ","Một anh hùng là rồng và có thể tấn công bằng tia laze bằng kỹ năng của mình.
 Hiệu ứng này chỉ được kích hoạt khi có 1 [Azure Dragon] trên bàn cờ.
 Khi {p0} Anh hùng bị đánh bại trong bán kính, Anh hùng sẽ tăng cường sức tấn công của mình.
-Khi được cường hóa, bắn một tia laze gây {p1} sát thương ","身为龙的英雄，可以用他的技能用激光束进行攻击。
+Khi được cường hóa, bắn một tia laze gây {p1} sát thương ","身为龙的英雄，可以凭借其技能用激光束进行攻击。
 该效果仅在场上有1只【青龙】时发动。
 当{p0}英雄在半径范围内被击败时，该英雄的攻击力会增强。
-增强后，发射一束激光，造成 {p1} 伤害 ",,"ドラゴンの姿をしており、スキルでレーザー光線による攻撃ができる主人公。
+增强后，发射激光，造成 {p1} 伤害 ",,"ドラゴンの姿をしており、スキルでレーザー光線による攻撃ができる主人公。
 この効果は盤面に「アズール・ドラゴン」１体が存在する場合に発動できる。
 {p0} 人のヒーローが半径内で倒されると、ヒーローは攻撃を強化します。
 強化すると、{p1} にダメージを与えるレーザーを発射します。 ","Un héros qui est un dragon et qui peut attaquer avec un rayon laser grâce à ses compétences.
@@ -75,22 +75,22 @@ Cung cấp rào chắn {p0} cho tất cả đồng minh trong bán kính 1 ô kh
 在回合开始时为 1 格半径内的所有盟友提供 {p0} 屏障。",,"味方の防御バリアを築き、剣で敵を攻撃できる忠実で勇敢なヒーローです。
 ラウンド開始時に半径 1 セル以内の味方全員に {p0} バリアを提供します。","Un héros loyal et courageux qui peut créer une barrière protectrice pour les alliés et attaquer les ennemis avec son épée.
 Fournit une barrière de {p0} à tous les alliés dans un rayon d'une cellule au début d'un tour.","Ein treuer und mutiger Held, der mit seinem Schwerthieb eine Schutzbarriere für Verbündete errichten kann, die Feinde angreifen.
-Bietet zu Beginn einer Runde eine {p0}-Barriere für alle Verbündeten innerhalb eines Radius von 1 Feld.","Un héroe leal y valiente que puede crear una barrera protectora para que los aliados ataquen a los enemigos con su espada.
+Bietet zu Beginn einer Runde eine {p0}-Barriere für alle Verbündeten innerhalb eines Radius von 1 Zelle.","Un héroe leal y valiente que puede crear una barrera protectora para que los aliados ataquen a los enemigos con su espada.
 Proporciona una barrera {p0} a todos los aliados dentro de un radio de 1 celda al comienzo de una ronda.","Um herói leal e corajoso que pode criar uma barreira protetora para aliados atacarem inimigos com seu golpe de espada.
 Fornece barreira {p0} para todos os aliados dentro de um raio de 1 célula no início de uma rodada.","البطل المخلص والشجاع الذي يمكنه إنشاء حاجز وقائي للحلفاء يهاجم الأعداء بقطع سيفه.
-يوفر حاجز {p0} لجميع الحلفاء داخل دائرة نصف قطرها خلية واحدة في بداية الجولة.","Верный и храбрый герой, способный создать защитный барьер для союзников, атакующих врагов своим ударом меча.
+يوفر حاجز {p0} لجميع الحلفاء داخل دائرة نصف قطرها خلية واحدة في بداية الجولة.","Верный и храбрый герой, способный создать защитный барьер для союзников, атакующих врагов ударом меча.
 Предоставляет барьер {p0} всем союзникам в радиусе 1 клетки в начале раунда.","아군을 보호하는 장벽을 만들어 검으로 적을 공격하는 충성스럽고 용감한 영웅입니다.
 라운드 시작 시 1셀 반경 내의 모든 아군에게 {p0} 장벽을 제공합니다.","Un eroe leale e coraggioso che può creare una barriera protettiva per gli alleati che attaccano i nemici con il suo taglio di spada.
 Fornisce {p0} barriera a tutti gli alleati nel raggio di 1 cella all'inizio di un round.","एक वफादार और बहादुर नायक जो सहयोगियों के लिए एक सुरक्षात्मक अवरोध पैदा कर सकता है और अपनी तलवार से दुश्मनों पर हमला कर सकता है।
 एक राउंड की शुरुआत में 1-सेल के दायरे में सभी सहयोगियों को {p0} अवरोध प्रदान करता है।","Isang tapat at matapang na bayani na maaaring lumikha ng isang proteksiyon na hadlang para sa mga kaalyado na umaatake sa mga kaaway gamit ang kanyang sword slash.
 Nagbibigay ng {p0} barrier sa lahat ng kaalyado sa loob ng 1-cell radius sa simula ng isang round.","Pahlawan setia dan pemberani yang dapat menciptakan penghalang pelindung bagi sekutu untuk menyerang musuh dengan tebasan pedangnya.
-Memberikan penghalang sebesar {p0} kepada semua sekutu dalam radius 1 sel di awal ronde.","ฮีโร่ผู้ภักดีและกล้าหาญที่สามารถสร้างบาเรียป้องกันให้พันธมิตรโจมตีศัตรูด้วยการฟันดาบของเขา
+Memberikan penghalang sebesar {p0} kepada semua sekutu dalam radius 1 sel di awal ronde.","ฮีโร่ผู้ภักดีและกล้าหาญที่สามารถสร้างบาเรียป้องกันสำหรับพันธมิตรโจมตีศัตรูด้วยการฟันดาบของเขา
 สร้างบาเรีย {p0} ให้กับพันธมิตรทั้งหมดภายในรัศมี 1 เซลล์เมื่อเริ่มรอบ","Müttefikler için koruyucu bir bariyer oluşturabilen sadık ve cesur bir kahraman, kılıç darbesiyle düşmanlara saldırır.
 Bir turun başında 1 hücrelik yarıçap içindeki tüm müttefiklere {p0} bariyer sağlar."
 TXT_HERO_BERSERK_DES,"A masked wolf warrior — stalks in silence, strikes like a nightmare in the wild.
 Increases damage by {p0}% when current HP drops below {p1}%.","Một chiến binh sói đeo mặt nạ - rình rập trong im lặng, tấn công như một cơn ác mộng nơi hoang dã.
 Tăng sát thương thêm {p0}% khi HP hiện tại giảm xuống dưới {p1}%.","蒙面狼战士——悄无声息地潜行，像荒野中的噩梦一样袭击。
-当前生命值低于 {p1}% 时，伤害增加 {p0}%。",,"仮面をかぶったオオカミの戦士 — 沈黙のうちに闊歩し、野生の中で悪夢のように襲い掛かる。
+当前生命值低于 {p1}% 时，伤害增加 {p0}%。",,"仮面をかぶったオオカミの戦士 — 沈黙のうちに闊歩し、野生の中で悪夢のように襲いかかる。
 現在の HP が {p1}% を下回ると、ダメージが {p0}% 増加します。","Un guerrier loup masqué – marche en silence, frappe comme un cauchemar dans la nature.
 Augmente les dégâts de {p0} % lorsque les PV actuels tombent en dessous de {p1} %.","Ein maskierter Wolfskrieger – schleicht schweigend umher und schlägt wie ein Albtraum in der Wildnis zu.
 Erhöht den Schaden um {p0} %, wenn die aktuellen HP unter {p1} % fallen.","Un guerrero lobo enmascarado: acecha en silencio, ataca como una pesadilla en la naturaleza.
@@ -109,7 +109,7 @@ TXT_HERO_BOMBARDIER_DES,"Appears in a blink, and strikes in silence.
 When defeated, deals {p0} damage to all enemies within a 1-cell radius.","Xuất hiện trong nháy mắt và tấn công trong im lặng.
 Khi bị đánh bại, gây {p0} sát thương cho tất cả kẻ địch trong bán kính 1 ô.","眨眼间出现，无声无息地袭来。
 被击败后，对 1 格半径内的所有敌人造成 {p0} 点伤害。",,"瞬きして現れ、静かに攻撃する。
-敗北すると、半径 1 セル以内のすべての敵に {p0} のダメージを与えます。","Apparaît en un clin d'œil et frappe en silence.
+敗北すると、半径 1 セル以内の敵全員に {p0} のダメージを与えます。","Apparaît en un clin d'œil et frappe en silence.
 Une fois vaincu, inflige {p0} dégâts à tous les ennemis dans un rayon d'une cellule.","Erscheint blitzschnell und schlägt schweigend zu.
 Wenn er besiegt wird, fügt er allen Feinden im Umkreis von 1 Zelle {p0} Schaden zu.","Aparece en un abrir y cerrar de ojos y ataca en silencio.
 Cuando es derrotado, causa {p0} de daño a todos los enemigos dentro de un radio de 1 celda.","Aparece num piscar de olhos e ataca em silêncio.
@@ -118,7 +118,7 @@ Quando derrotado, causa {p0} de dano a todos os inimigos em um raio de 1 célula
 При поражении наносит {p0} урона всем врагам в радиусе 1 клетки.","눈 깜짝할 사이에 나타나 조용히 공격한다.
 패배 시 1셀 반경 내의 모든 적에게 {p0}의 피해를 입힙니다.","Appare in un batter d'occhio e colpisce in silenzio.
 Quando viene sconfitto, infligge {p0} danni a tutti i nemici nel raggio di 1 cella.","पलक झपकते ही प्रकट होता है, और मौन में प्रहार करता है।
-पराजित होने पर, 1-सेल के दायरे में सभी शत्रुओं को {पी0} क्षति पहुँचाता है।","Lumitaw sa isang iglap, at humahampas sa katahimikan.
+पराजित होने पर, 1-कोशिका के दायरे में सभी शत्रुओं को {पी0} क्षति पहुँचाता है।","Lumitaw sa isang iglap, at humahampas sa katahimikan.
 Kapag natalo, nagdudulot ng {p0} pinsala sa lahat ng kaaway sa loob ng 1-cell radius.","Muncul dalam sekejap, dan menyerang dalam diam.
 Saat dikalahkan, menimbulkan kerusakan sebesar {p0} pada semua musuh dalam radius 1 sel.","ปรากฏขึ้นในชั่วพริบตา และโจมตีอย่างเงียบ ๆ
 เมื่อพ่ายแพ้ สร้างความเสียหาย {p0} ให้กับศัตรูทั้งหมดภายในรัศมี 1 เซลล์","Göz açıp kapayıncaya kadar ortaya çıkar ve sessizce saldırır.
@@ -132,12 +132,12 @@ Provoque tous les ennemis dans un rayon de 2 cellules.","Ein älterer Dämonenkr
 Verspottet alle Feinde im Umkreis von 2 Zellen.","Un guerrero demonio anciano con un escudo colosal: el muro viviente que nada traspasa.
 Se burla de todos los enemigos dentro de un radio de 2 celdas.","Um guerreiro demônio mais velho com um escudo colossal – a parede viva pela qual nada passa.
 Provoca todos os inimigos em um raio de 2 células.","محارب شيطاني كبير السن بدرع ضخم - الجدار الحي الذي لا يمكن تجاوزه.
-يسخر من جميع الأعداء داخل دائرة نصف قطرها خليتين.","Старший воин-демон с огромным щитом — живой стеной, сквозь которую ничто не может пройти.
+يسخر من جميع الأعداء داخل دائرة نصف قطرها خليتين.","Старейший воин-демон с огромным щитом — живой стеной, сквозь которую ничто не может пройти.
 Насмехается над всеми врагами в радиусе 2 клеток.","거대한 방패를 지닌 원로 악마 전사, 그 무엇도 지나갈 수 없는 살아있는 벽.
 2셀 반경 내의 모든 적을 도발합니다.","Un guerriero demone anziano con uno scudo colossale: il muro vivente oltre il quale nulla può oltrepassarsi.
 Provoca tutti i nemici nel raggio di 2 celle.","विशाल ढाल के साथ एक बुजुर्ग दानव योद्धा - जीवित दीवार जिसके पार कोई नहीं जा सकता।
 2-कोशिका के दायरे में सभी शत्रुओं पर ताना कसता है।","Isang matandang demonyong mandirigma na may napakalaking kalasag — ang buhay na pader na walang nalalampasan.
-Tinutuya ang lahat ng kaaway sa loob ng 2-cell radius.","Seorang prajurit iblis tua dengan perisai raksasa – tembok hidup yang tidak dapat dilewati oleh apa pun.
+Tinutuya ang lahat ng kaaway sa loob ng 2-cell radius.","Seorang prajurit iblis tua dengan perisai raksasa — tembok hidup yang tidak dapat dilewati oleh apa pun.
 Mengejek semua musuh dalam radius 2 sel.","นักรบปีศาจผู้เฒ่าที่มีโล่ขนาดมหึมา — กำแพงมีชีวิตที่ไม่มีอะไรผ่านไปได้
 ยั่วยุศัตรูทั้งหมดที่อยู่ในรัศมี 2 เซลล์","Devasa bir kalkanı olan yaşlı bir iblis savaşçı; hiçbir şeyin geçemediği yaşayan duvar.
 2 hücrelik yarıçap içindeki tüm düşmanları alaya alır."
@@ -151,27 +151,27 @@ Tötet das Ziel sofort mit einer Wahrscheinlichkeit von {p0} %.","Un guerrero de
 Insta-mata al objetivo con un {p0}% de probabilidad.","Um guerreiro da luz empunhando um martelo poderoso – onde quer que ele esteja, a escuridão não ousa segui-lo.
 Mata instantaneamente o alvo com {p0}% de chance.","محارب النور يحمل مطرقة قوية - أينما يقف، لا يجرؤ الظلام على اتباعه.
 يقتل الإنستا الهدف بفرصة {p0}%.","Воин света, владеющий могучим молотом — где бы он ни стоял, тьма не осмеливается следовать за ним.
-Мгновенно убивает цель с вероятностью {p0}%.","강력한 망치를 휘두르는 빛의 전사, 그가 서 있는 곳이면 어둠도 감히 따라오지 못한다.
+Мгновенно убивает цель с вероятностью {p0}%.","강력한 망치를 휘두르는 빛의 전사, 그가 서 있는 곳에는 어둠이 감히 따라오지 못한다.
 {p0}% 확률로 대상을 즉사시킵니다.","Un guerriero della luce che brandisce un potente martello: ovunque si trovi, l'oscurità non osa seguirlo.
 Uccide istantaneamente il bersaglio con una probabilità del {p0}%.","एक शक्तिशाली हथौड़ा चलाने वाला प्रकाश का योद्धा - वह जहां भी खड़ा होता है, अंधेरा उसका पीछा करने की हिम्मत नहीं करता।
 इंस्टा-लक्ष्य को {p0}% संभावना से मारता है।","Isang mandirigma ng liwanag na may hawak na makapangyarihang martilyo - saan man siya nakatayo, ang kadiliman ay hindi nangahas sumunod.
 Pinapatay ng Insta ang target nang {p0}% ng pagkakataon.","Seorang pejuang cahaya yang memegang palu yang kuat — di mana pun dia berdiri, kegelapan tidak berani mengikuti.
-Membunuh target secara instan dengan peluang {p0}%.","นักรบแห่งแสงถือค้อนอันทรงพลัง ไม่ว่าเขาจะยืนอยู่ที่ใด ความมืดก็ไม่กล้าตามมา
+Membunuh target secara instan dengan peluang {p0}%.","นักรบแห่งแสงถือค้อนอันทรงพลัง — ไม่ว่าเขาจะยืนอยู่ที่ใด ความมืดก็ไม่กล้าตามมา
 สังหารเป้าหมายด้วยโอกาส {p0}%","Muazzam bir çekiç kullanan bir ışığın savaşçısı; nerede durursa dursun, karanlık onu takip etmeye cesaret edemez.
 Hedefi anında %{p0} şansla öldürür."
 TXT_HERO_ELECTRIC_CANON_DES,"A summoner from another dimension — his three eyes see beyond reality, and his companion? No one knows what it is...
 Until no availabel target is left, deals {p0}% inscreased damage to an enemy within a 1-cell radius to the main target with an electric arc.","Một triệu hồi sư đến từ không gian khác - ba con mắt của anh ta nhìn xa hơn thực tế, và người bạn đồng hành của anh ta? Không ai biết nó là gì...
 Cho đến khi không còn mục tiêu nào sẵn có, gây sát thương tăng thêm {p0}% cho kẻ địch trong bán kính 1 ô tới mục tiêu chính bằng hồ quang điện.","来自异次元的召唤师——他的三只眼睛超越了现实，而他的同伴呢？没有人知道那是什么...
 直到没有可用目标为止，用电弧对主目标 1 格半径内的敌人造成 {p0}% 的伤害。",,"異次元からの召喚者――その三つの目は現実の彼方を見る、そしてその仲間は？それが何なのか誰も知りません...
-有効なターゲットがなくなるまで、メインターゲットから半径 1 セル以内の敵に電気アークで {p0}% 増加のダメージを与えます。","Un invocateur d'une autre dimension – ses trois yeux voient au-delà de la réalité, et son compagnon ? Personne ne sait ce que c'est...
+有効なターゲットがなくなるまで、電気アークでメイン ターゲットから半径 1 セル以内の敵に {p0}% 増加のダメージを与えます。","Un invocateur d'une autre dimension – ses trois yeux voient au-delà de la réalité, et son compagnon ? Personne ne sait ce que c'est...
 Jusqu'à ce qu'il ne reste plus aucune cible disponible, inflige {p0} % de dégâts supplémentaires à un ennemi dans un rayon de 1 cellule par rapport à la cible principale avec un arc électrique.","Ein Beschwörer aus einer anderen Dimension – seine drei Augen sehen über die Realität hinaus, und sein Begleiter? Niemand weiß, was es ist...
 Bis kein verfügbares Ziel mehr verfügbar ist, fügt es einem Feind innerhalb eines Radius von 1 Zelle um das Hauptziel mit einem elektrischen Lichtbogen {p0} % erhöhten Schaden zu.","Un invocador de otra dimensión: sus tres ojos ven más allá de la realidad, ¿y su compañero? Nadie sabe qué es...
 Hasta que no quede ningún objetivo disponible, inflige un {p0}% de daño aumentado a un enemigo dentro de un radio de 1 celda al objetivo principal con un arco eléctrico.","Um invocador de outra dimensão – seus três olhos enxergam além da realidade, e seu companheiro? Ninguém sabe o que é...
-Até que não haja mais nenhum alvo disponível, causa {p0}% de dano aumentado a um inimigo dentro de um raio de 1 célula ao alvo principal com um arco elétrico.","مستدعي من بعد آخر - عيونه الثلاثة ترى ما وراء الواقع، ورفيقه؟ لا أحد يعرف ما هو...
+Até que não haja mais nenhum alvo disponível, causa {p0}% de dano aumentado a um inimigo dentro de um raio de 1 célula ao alvo principal com um arco elétrico.","مستدعي من بعد آخر - عيونه الثلاث ترى ما وراء الواقع، ورفيقه؟ لا أحد يعرف ما هو...
 حتى لا يتبقى أي هدف متاح، يسبب ضررًا متزايدًا بنسبة {p0}% للعدو داخل دائرة نصف قطرها خلية واحدة للهدف الرئيسي باستخدام قوس كهربائي.","Призыватель из другого измерения — его три глаза видят за пределами реальности, а его спутник? Никто не знает, что это такое...
 Пока не останется ни одной доступной цели, наносит увеличенный на {p0}% урон врагу в радиусе 1 клетки по основной цели электрической дугой.","다른 차원에서 온 소환사. 그의 세 눈은 현실 너머를 보고 있으며, 그의 동반자는? 그것이 무엇인지 아무도 모릅니다...
 사용 가능한 대상이 남지 않을 때까지 전기 아크로 주 대상의 1셀 반경 내 적에게 {p0}% 증가된 피해를 줍니다.","Un evocatore di un'altra dimensione: i suoi tre occhi vedono oltre la realtà, e il suo compagno? Nessuno sa cosa sia...
-Fino a quando non rimane alcun bersaglio disponibile, infligge il {p0}% di danni aggiuntivi a un nemico entro un raggio di 1 cella al bersaglio principale con un arco elettrico.","दूसरे आयाम से एक सम्मनकर्ता - उसकी तीन आंखें वास्तविकता से परे देखती हैं, और उसका साथी? कोई नहीं जानता कि यह क्या है...
+Fino a quando non rimane alcun bersaglio disponibile, infligge il {p0}% di danni aumentati a un nemico entro un raggio di 1 cella al bersaglio principale con un arco elettrico.","दूसरे आयाम से एक सम्मनकर्ता - उसकी तीन आंखें वास्तविकता से परे देखती हैं, और उसका साथी? कोई नहीं जानता कि यह क्या है...
 जब तक कोई उपलब्ध लक्ष्य नहीं बचा है, तब तक एक इलेक्ट्रिक आर्क के साथ मुख्य लक्ष्य के 1-सेल त्रिज्या के भीतर दुश्मन को {p0}% बढ़ी हुई क्षति पहुंचाता है।","Isang summoner mula sa ibang dimensyon — ang kanyang tatlong mata ay nakikita sa kabila ng katotohanan, at ang kanyang kasama? Walang nakakaalam kung ano ito...
 Hanggang sa walang natitira sa availabel na target, magbibigay ng {p0}% na tumaas na pinsala sa isang kaaway sa loob ng 1-cell radius sa pangunahing target na may electric arc.","Seorang pemanggil dari dimensi lain – ketiga matanya melihat melampaui kenyataan, dan rekannya? Tidak ada yang tahu apa itu...
 Hingga tidak ada lagi target yang tersisa, memberikan {p0}% peningkatan kerusakan pada musuh dalam radius 1 sel ke target utama dengan busur listrik.","ผู้อัญเชิญจากมิติอื่น — ดวงตาทั้งสามของเขามองเห็นเหนือความเป็นจริง และสหายของเขา? ไม่มีใครรู้ว่ามันคืออะไร...
@@ -182,11 +182,11 @@ Ability switches based on the number of current dot count.
 [Odd No.] Attack range increases by 1, and damage increases by {p0}%. However, HP decreases by {p1}%.
 [Even No.] HP increases by {p3}% and taunts all enemies within the attack range. However, damage decreases by {p2}%.","Ẩn mình trong bóng tối, nổi bật như lời thì thầm của cái chết.
 Khả năng chuyển đổi dựa trên số lượng dấu chấm hiện tại.
-[Lẻ] Phạm vi tấn công tăng thêm 1 và sát thương tăng {p0}%. Tuy nhiên, HP giảm đi {p1}%.
-[Chẵn] HP tăng {p3}% và khiêu khích tất cả kẻ thù trong phạm vi tấn công. Tuy nhiên, sát thương giảm {p2}%.","隐藏在阴影中，像死亡的低语一样引人注目。
+[Số lẻ] Phạm vi tấn công tăng thêm 1 và sát thương tăng {p0}%. Tuy nhiên, HP giảm đi {p1}%.
+[Chẵn Không.] HP tăng {p3}% và khiêu khích tất cả kẻ thù trong phạm vi tấn công. Tuy nhiên, sát thương giảm {p2}%.","隐藏在阴影中，像死亡的低语一样引人注目。
 能力根据当前点数进行切换。
 [奇数]攻击范围增加1，伤害增加{p0}%。然而，HP 会减少 {p1}%。
-[偶数]生命值增加{p3}%，并嘲讽攻击范围内的所有敌人。然而，伤害减少{p2}%。",,"影に隠れて、死のささやきのように襲いかかる。
+[偶数]生命值增加{p3}%，并嘲讽攻击范围内的所有敌人。然而，伤害减少{p2}%。",,"影に隠れて、死のささやきのように襲い掛かる。
 現在のドット数に応じて能力が切り替わります。
 [奇数] 攻撃範囲が 1 増加し、ダメージが {p0}% 増加します。ただし、HPは{p1}%減少します。
 [偶数] HPが{p3}%増加し、攻撃範囲内のすべての敵を挑発します。ただし、ダメージは {p2}% 減少します。","Caché dans l'ombre, frappant comme un murmure de mort.
@@ -201,7 +201,7 @@ La habilidad cambia según el número de puntos actuales.
 [Even No.] HP aumenta un {p3}% y provoca a todos los enemigos dentro del rango de ataque. Sin embargo, el daño disminuye un {p2}%.","Escondido nas sombras, atingindo como um sussurro de morte.
 A capacidade muda com base no número de contagem de pontos atual.
 [No. ímpar] O alcance do ataque aumenta em 1 e o dano aumenta em {p0}%. No entanto, o HP diminui em {p1}%.
-[Mesmo Não.] O HP aumenta em {p3}% e provoca todos os inimigos dentro do alcance de ataque. No entanto, o dano diminui em {p2}%.","مختبئًا في الظلال، يضرب مثل همس الموت.
+[Mesmo Não.] O HP aumenta em {p3}% e provoca todos os inimigos dentro do alcance de ataque. No entanto, o dano diminui em {p2}%.","مختبئًا في الظلال، يضرب مثل همسة الموت.
 تبديل القدرة على أساس عدد النقاط الحالية.
 [رقم فردي] يزيد نطاق الهجوم بمقدار 1، ويزداد الضرر بنسبة {p0}%. ومع ذلك، تنخفض الصحة بنسبة {p1}%.
 [رقم زوجي] تزيد الصحة بنسبة {p3}% وتهز جميع الأعداء الموجودين ضمن نطاق الهجوم. ومع ذلك، ينخفض ​​الضرر بنسبة {p2}%.","Скрытый в тенях, поразительный, как шепот смерти.
@@ -233,52 +233,52 @@ TXT_HERO_EYE_VISION_DES,"Strikes fast, vanishes faster, and leaves only the stin
 When Oraclyn is summoned/merged, it succeeds in 'prediction' if an enemy's Hero is summoned/merged within the effect boundary.
 A successful prediction permanently increases the attack value by {p0}.
 On the round in which a prediction is successful, the attack value of all Eye Vision increases by {p1}%.","Tấn công nhanh, biến mất nhanh hơn và chỉ để lại vết đốt.
-Khi Eye Vision được triệu hồi/hợp nhất, nó sẽ thành công trong việc 'dự đoán' nếu Anh hùng của kẻ địch được triệu tập/hợp nhất trong ranh giới hiệu ứng.
+Khi Oraclyn được triệu hồi/hợp nhất, nó sẽ thành công trong việc 'dự đoán' nếu Anh hùng của kẻ địch được triệu tập/hợp nhất trong ranh giới hiệu ứng.
 Dự đoán thành công sẽ tăng vĩnh viễn giá trị tấn công thêm {p0}.
 Ở vòng dự đoán thành công, giá trị tấn công của tất cả Tầm nhìn của Mắt sẽ tăng thêm {p1}%.","攻击速度快，消失速度快，只留下刺痛。
-召唤/融合眼视时，若在效果范围内召唤/融合敌方英雄，则‘预测’成功。
+当Oraclyn被召唤/合并时，如果敌人的英雄在效果范围内被召唤/合并，它就会成功“预测”。
 成功的预测将攻击值永久增加 {p0}。
-预测成功的回合，所有眼视觉的攻击值增加{p1}%。",,"攻撃は速く、消え去るのも早く、刺し傷だけが残ります。
-アイビジョンの召喚・合体時、効果境界内に敵の英雄が召喚・合体すると「予知」に成功します。
+预测成功的回合，所有眼视觉的攻击值增加{p1}%。",,"素早く攻撃し、素早く消えて、刺し傷だけが残ります。
+オラクリンの召喚・合体時、効果境界内に敵の英雄が召喚・合体すると「予知」に成功します。
 予測が成功すると、攻撃値が永続的に {p0} 増加します。
 予測が成功したラウンドでは、すべてのアイビジョンの攻撃値が {p1}% 増加します。","Frappe vite, disparaît plus vite et ne laisse que la piqûre.
-Lorsque Eye Vision est invoqué/fusionné, sa « prédiction » réussit si le héros d'un ennemi est invoqué/fusionné dans la limite d'effet.
+Lorsqu'Oraclyn est invoqué/fusionné, sa « prédiction » réussit si le héros d'un ennemi est invoqué/fusionné dans la limite d'effet.
 Une prédiction réussie augmente de manière permanente la valeur d'attaque de {p0}.
 Lors du tour au cours duquel une prédiction est réussie, la valeur d'attaque de tous les Eye Vision augmente de {p1} %.","Schlägt schnell zu, verschwindet schneller und hinterlässt nur den Stachel.
-Wenn Eye Vision beschworen/zusammengeführt wird, ist eine „Vorhersage“ möglich, wenn ein gegnerischer Held innerhalb der Wirkungsgrenze beschworen/zusammengeführt wird.
+Wenn Oraclyn beschworen/zusammengeführt wird, gelingt ihm die „Vorhersage“, ob ein gegnerischer Held innerhalb der Wirkungsgrenze beschworen/zusammengeführt wird.
 Eine erfolgreiche Vorhersage erhöht den Angriffswert dauerhaft um {p0}.
 In der Runde, in der eine Vorhersage erfolgreich ist, erhöht sich der Angriffswert aller Eye Vision um {p1} %.","Ataca rápido, desaparece más rápido y deja sólo el aguijón.
-Cuando se invoca/fusiona Eye Vision, tiene éxito en la ""predicción"" si el héroe de un enemigo es invocado/fusionado dentro del límite del efecto.
+Cuando Oraclyn es invocado/fusionado, tiene éxito en la ""predicción"" si el héroe de un enemigo es invocado/fusionado dentro del límite del efecto.
 Una predicción exitosa aumenta permanentemente el valor del ataque en {p0}.
 En la ronda en la que una predicción tiene éxito, el valor de ataque de todos los Eye Vision aumenta en un {p1}%.","Ataca rápido, desaparece mais rápido e deixa apenas o ferrão.
-Quando Eye Vision é convocado/fundido, ele consegue 'prever' se o Herói de um inimigo é convocado/fundido dentro do limite do efeito.
+Quando Oraclyn é convocado/fundido, ele consegue 'prever' se o Herói de um inimigo é convocado/fundido dentro do limite do efeito.
 Uma previsão bem-sucedida aumenta permanentemente o valor do ataque em {p0}.
 Na rodada em que uma previsão é bem-sucedida, o valor de ataque de todos os Eye Vision aumenta em {p1}%.","يضرب بسرعة، ويختفي بشكل أسرع، ولا يترك سوى اللدغة.
-عندما يتم استدعاء/دمج رؤية العين، فإنها تنجح في ""التنبؤ"" إذا تم استدعاء/دمج بطل العدو داخل حدود التأثير.
+عندما يتم استدعاء/دمج Oraclyn، فإنه ينجح في ""التنبؤ"" إذا تم استدعاء/دمج بطل العدو داخل حدود التأثير.
 يؤدي التنبؤ الناجح إلى زيادة قيمة الهجوم بشكل دائم بمقدار {p0}.
 في الجولة التي ينجح فيها التنبؤ، تزيد قيمة الهجوم لكل رؤية العين بنسبة {p1}%.","Ударяет быстро, исчезает быстрее и оставляет только жало.
-Когда Eye Vision вызывается/объединяется, ему удается «предсказать», будет ли Герой противника вызван/объединен в пределах границы эффекта.
+Когда Ораклин вызывается/сливается, ему удается «предсказать», будет ли Герой противника вызван/слит в пределах границы эффекта.
 Успешный прогноз навсегда увеличивает значение атаки на {p0}.
 В раунде, в котором предсказание оказывается успешным, значение атаки всего Зрения увеличивается на {p1}%.","빠르게 공격하고, 더 빨리 사라지며, 독침만 남깁니다.
-아이비전 소환/합체 시, 효과 범위 내에서 적 영웅이 소환/합체되면 '예측'에 성공합니다.
+오라클린 소환/합체 시, 효과 범위 내에서 적 영웅이 소환/합체되면 '예측'에 성공합니다.
 성공적인 예측은 공격 값을 {p0}만큼 영구적으로 증가시킵니다.
 예측이 성공한 라운드에서는 모든 Eye Vision의 공격 수치가 {p1}% 증가합니다.","Colpisce velocemente, svanisce più velocemente e lascia solo la puntura.
-Quando Eye Vision viene evocato/fuso, ha successo nella ""previsione"" se l'eroe di un nemico viene evocato/fuso entro il confine dell'effetto.
+Quando Oraclyn viene evocato/fuso, riesce nella ""previsione"" se l'eroe di un nemico viene evocato/fuso entro il confine dell'effetto.
 Una previsione riuscita aumenta permanentemente il valore dell'attacco di {p0}.
 Nel round in cui una previsione ha successo, il valore di attacco di tutta la visione oculare aumenta del {p1}%.","तेजी से हमला करता है, तेजी से गायब हो जाता है, और केवल डंक छोड़ता है।
-जब आई विजन को सम्मन/विलय किया जाता है, तो यह 'भविष्यवाणी' में सफल होता है यदि किसी दुश्मन के नायक को प्रभाव सीमा के भीतर बुलाया/विलय किया जाता है।
+जब ओराक्लिन को बुलाया/विलय किया जाता है, तो यह 'भविष्यवाणी' में सफल होता है यदि किसी दुश्मन के नायक को प्रभाव सीमा के भीतर बुलाया/विलय किया जाता है।
 एक सफल भविष्यवाणी हमले के मूल्य को स्थायी रूप से {p0} तक बढ़ा देती है।
 जिस दौर में भविष्यवाणी सफल होती है, उस दौर में सभी नेत्र दृष्टि का आक्रमण मूल्य {p1}% बढ़ जाता है।","Mabilis na humahampas, mas mabilis na naglalaho, at nag-iiwan lamang ng tibo.
-Kapag ipinatawag/pinagsama ang Eye Vision, magtatagumpay ito sa 'prediction' kung ang Hero ng kalaban ay ipinatawag/pinagsama sa loob ng hangganan ng epekto.
+Kapag ipinatawag/pinagsama si Oraclyn, nagtagumpay ito sa 'paghula' kung ang Bayani ng kalaban ay ipinatawag/pinagsama sa loob ng hangganan ng epekto.
 Ang isang matagumpay na hula ay permanenteng nagpapataas ng halaga ng pag-atake ng {p0}.
 Sa round kung saan matagumpay ang isang hula, ang halaga ng pag-atake ng lahat ng Eye Vision ay tumataas ng {p1}%.","Menyerang dengan cepat, menghilang lebih cepat, dan hanya menyisakan sengatannya saja.
-Saat Eye Vision dipanggil/digabung, 'prediksi' berhasil jika Pahlawan musuh dipanggil/digabung dalam batas efek.
+Ketika Oraclyn dipanggil/digabung, ia berhasil melakukan 'prediksi' jika Pahlawan musuh dipanggil/digabung dalam batas efek.
 Prediksi yang berhasil secara permanen meningkatkan nilai serangan sebesar {p0}.
 Pada ronde yang prediksinya berhasil, nilai serangan semua Eye Vision meningkat sebesar {p1}%.","โจมตีเร็ว หายเร็วขึ้น เหลือเพียงเหล็กไน
-เมื่อ Eye Vision ถูกอัญเชิญ/รวมเข้าด้วยกัน มันจะประสบความสำเร็จในการ 'ทำนาย' หากฮีโร่ของศัตรูถูกอัญเชิญ/รวมเข้าด้วยกันภายในขอบเขตเอฟเฟกต์
+เมื่อ Oraclyn ถูกอัญเชิญ/รวม มันจะประสบความสำเร็จใน 'ทำนาย' หากฮีโร่ของศัตรูถูกอัญเชิญ/รวมเข้าด้วยกันภายในขอบเขตเอฟเฟกต์
 การทำนายที่สำเร็จจะเพิ่มมูลค่าการโจมตีอย่างถาวร {p0}
 ในรอบที่การทำนายสำเร็จ มูลค่าการโจมตีของการมองเห็นทางตาทั้งหมดจะเพิ่มขึ้น {p1}%","Hızlı saldırır, daha hızlı kaybolur ve geriye sadece iğnesi kalır.
-Eye Vision çağrıldığında/birleştirildiğinde, bir düşmanın Kahramanının etki sınırı içinde çağrılması/birleştirilmesi durumunda 'tahminde' başarılı olur.
+Oraclyn çağrıldığında/birleştirildiğinde, bir düşmanın Kahramanının etki sınırı içinde çağrılması/birleştirilmesi durumunda 'tahmin'de başarılı olur.
 Başarılı bir tahmin, saldırı değerini kalıcı olarak {p0} artırır.
 Bir tahminin başarılı olduğu turda, tüm Göz Görüşünün saldırı değeri %{p1} artar."
 TXT_HERO_FLAME_FURY_DES,"Gliding silently in the dark with glowing antlers — small but definitely not to be messed with.
@@ -301,8 +301,8 @@ Menimbulkan {p0} kerusakan tambahan pada semua musuh dalam radius 1 sel dari tar
 Hedefin 1 hücrelik yarıçapındaki tüm düşmanlara {p0} ek hasar verir. "
 TXT_HERO_FLORA_BLOOM_DES,"A lightning-fast warrior with a golden energy blade — blink and you’ll miss the strike!.
 Heals {p0} HP of all allies within a 1-cell radius every {p1} second(s)","Một chiến binh nhanh như chớp với lưỡi kiếm năng lượng vàng - chớp mắt và bạn sẽ trượt đòn đánh!.
-Hồi phục {p0} HP cho tất cả đồng minh trong bán kính 1 ô mỗi {p1} giây","一名拥有金色能量剑、速度如闪电的战士——眨眼间，你就会错过攻击！
-每 {p1} 秒恢复 1 格半径内所有盟友的 {p0} 生命值",,"黄金のエネルギーブレードを持った電光石火の戦士です。まばたきすると攻撃を逃してしまいます。
+Hồi phục {p0} HP cho tất cả đồng minh trong bán kính 1 ô mỗi {p1} giây","一名拥有金色能量剑、速度如闪电的战士——眨眼就会错过攻击！
+每 {p1} 秒治疗 1 格半径内所有盟友的 {p0} 生命值",,"黄金のエネルギーブレードを持った電光石火の戦士です。まばたきすると攻撃を逃してしまいます。
 {p1} 秒ごとに半径 1 セル以内の味方全員の HP {p0} を回復します","Un guerrier ultra-rapide avec une lame d'énergie dorée : clignez des yeux et vous manquerez le coup !.
 Soigne {p0} HP de tous les alliés dans un rayon d'une cellule toutes les {p1} seconde(s).","Ein blitzschneller Krieger mit einer goldenen Energieklinge – blinzele und du verfehlst den Schlag!
 Heilt alle {p1} Sekunde(n) {p0} HP aller Verbündeten innerhalb eines 1-Feld-Radius.","Un guerrero veloz como el rayo con una espada de energía dorada: ¡parpadea y fallarás el golpe!
@@ -359,7 +359,7 @@ Recebe {p1}% menos dano de ataque básico dos inimigos provocados.
 Esta habilidade diminui em {p2}% para cada inimigo provocado.
 Após o término da provocação, o alcance do ataque aumenta em 1 e o valor do ataque aumenta em {p3}%.","مرغول مظلم وقوي من محمية الجرغول.
 يتم تنشيط هذا التأثير فقط عند وجود 2 أو أقل من [Gargoyle] على اللوحة.
-في بداية الجولة، يتم التهكم على جميع الأعداء الموجودين في نطاق مكون من خليتين لمدة {p0} ثانية (ثواني).
+في بداية الجولة، يتم السخرية من جميع الأعداء الموجودين في نطاق مكون من خليتين لمدة {p0} ثانية (ثواني).
 يتلقى ضررًا أساسيًا أقل بنسبة {p1}% من الأعداء المستهزئين.
 تنخفض هذه القدرة بنسبة {p2}% لكل عدو يتم الاستهزاء به.
 بعد انتهاء التهكم، يزيد نطاق الهجوم بمقدار 1، وتزداد قيمة الهجوم بنسبة {p3}%.","Темная и могущественная горгулья из Святилища горгулий.
@@ -447,7 +447,7 @@ Quando convocado ou fundido, tem {p2}% de chance de se tornar um Arqueiro Divino
 Ha una probabilità del {p0}% di infliggere {p1} danni a tutti i nemici in linea retta.
 Quando viene evocato o fuso, ha una probabilità del {p2}% di diventare un Arciere Divino con un aumento del {p3}% del danno dell'abilità.","हड्डी के गियर और उस्तरा-नुकीले भाले में एक जंगली शिकारी।
 सभी शत्रुओं को एक सीधी रेखा में {p1} क्षति पहुंचाने की {p0}% संभावना है।
-बुलाए जाने या विलय किए जाने पर, कौशल क्षति में {p3}% वृद्धि के साथ दिव्य तीरंदाज बनने की {p2}% संभावना होती है।","Isang ligaw na mangangaso sa bone gear at razor-sharp na sibat.
+बुलाए जाने या विलय किए जाने पर, कौशल क्षति में {p3}% वृद्धि के साथ दिव्य धनुर्धर बनने की {p2}% संभावना होती है।","Isang ligaw na mangangaso sa bone gear at razor-sharp na sibat.
 May {p0}% na pagkakataong makapagbigay ng {p1} pinsala sa lahat ng kaaway sa isang tuwid na linya.
 Kapag ipinatawag o pinagsama, may {p2}% na posibilidad na maging isang Divine Archer na may {p3}% na pagtaas sa skill damage.","Seorang pemburu liar dengan perlengkapan tulang dan tombak setajam silet.
 Memiliki peluang {p0}% untuk menimbulkan kerusakan sebesar {p1} pada semua musuh dalam garis lurus.
@@ -485,11 +485,11 @@ Quando viene evocato o fuso, ha una probabilità del {p2}% di diventare una Lama
 जब बुलाया या विलय किया जाता है, तो कौशल क्षति में {p3}% वृद्धि के साथ दिव्य ब्लेड बनने की {p2}% संभावना होती है।","Isang malabong ninja na may maskarang fox-spirit.
 May {p0}% chacne na humarap ng karagdagang {p1}% na proporsyon ng pinsala sa max HP ng target.
 Kapag ipinatawag o pinagsama, may {p2}% na posibilidad na maging Divine Blade na may {p3}% na pagtaas sa skill damage.","Seorang ninja bayangan dengan topeng roh rubah.
-Memiliki peluang {p0}% untuk menimbulkan tambahan {p1}% kerusakan sebanding dengan HP maksimal target.
+Memiliki peluang {p0}% untuk menimbulkan tambahan {p1}% kerusakan sebanding dengan HP maksimum target.
 Saat dipanggil atau digabungkan, memiliki peluang {p2}% menjadi Divine Blade dengan peningkatan kerusakan keterampilan sebesar {p3}%.","นินจาเงาสวมหน้ากากวิญญาณจิ้งจอก
 มีโอกาส {p0}% ที่จะสร้างความเสียหายเพิ่มเติม {p1}% ตามสัดส่วน HP สูงสุดของเป้าหมาย
 เมื่อถูกอัญเชิญหรือรวมเข้าด้วยกัน มีโอกาส {p2}% ที่จะกลายเป็น Divine Blade พร้อมความเสียหายจากทักษะเพิ่มขึ้น {p3}%","Tilki ruhu maskesine sahip gölgeli bir ninja.
-Hedefin maksimum HP'sine oranla %{p1} oranında ek hasar vermek için %{p0} şansı vardır.
+Hedefin maksimum HP'sine oranla %{p1} oranında ek hasar verme şansına %{p0} sahiptir.
 Çağırıldığında veya birleştirildiğinde, beceri hasarında %{p3} artışla İlahi Kılıç olma şansı %{p2}'dir."
 TXT_HERO_INVINCIBLE_QUEEN_DES,"A radiant forest spirit who brings blossoms wherever she goes — nature’s magic in motion.
 All Heroes within a 1-cell raidus become invincible for {p0} second(s) when their HP drops below {p1}%","Một tinh linh rừng rực rỡ mang hoa đến bất cứ nơi nào cô ấy đến - sự kỳ diệu của thiên nhiên đang chuyển động.
@@ -504,8 +504,8 @@ Todos os heróis dentro de um raidus de 1 célula tornam-se invencíveis por {p0
 Все герои в пределах 1-клеточного рейда становятся неуязвимыми на {p0} секунд, когда их здоровье падает ниже {p1}%","가는 곳마다 꽃을 피우는 빛나는 숲의 정령, 즉 자연의 마법이 움직입니다.
 1셀 레이드 내의 모든 영웅의 HP가 {p1}% 미만으로 떨어지면 {p0}초 동안 무적 상태가 됩니다.","Uno spirito radioso della foresta che porta fiori ovunque vada: la magia della natura in movimento.
 Tutti gli eroi all'interno di un raidus da 1 cella diventano invincibili per {p0} secondo/i quando i loro HP scendono al di sotto del {p1}%","एक दीप्तिमान वन आत्मा जो जहां भी जाती है फूल लाती है - प्रकृति का जादू गति में है।
-1-सेल रेडस के भीतर सभी नायक {p0} सेकंड के लिए अजेय हो जाते हैं जब उनका HP {p1}% से नीचे चला जाता है","Isang maningning na espiritu ng kagubatan na nagdudulot ng mga bulaklak saan man siya magpunta — ang magic ng kalikasan na kumikilos.
-Ang lahat ng Bayani sa loob ng 1-cell raidus ay nagiging invincible sa loob ng {p0} (na) segundo kapag bumaba ang kanilang HP sa ibaba ng {p1}%","Semangat hutan yang bersinar yang membawa bunga ke mana pun dia pergi — keajaiban alam bergerak.
+1-सेल रेडस के भीतर सभी नायक {p0} सेकंड के लिए अजेय हो जाते हैं जब उनका HP {p1}% से नीचे चला जाता है","Isang maningning na espiritu ng kagubatan na namumulaklak saan man siya magpunta - ang magic ng kalikasan na kumikilos.
+Ang lahat ng Bayani sa loob ng 1-cell raidus ay nagiging invincible sa loob ng {p0} (mga) segundo kapag bumaba ang kanilang HP sa ibaba ng {p1}%","Semangat hutan yang bersinar yang membawa bunga ke mana pun dia pergi — keajaiban alam bergerak.
 Semua Pahlawan dalam serangan 1 sel menjadi tak terkalahkan selama {p0} detik ketika HP mereka turun di bawah {p1}%","วิญญาณแห่งป่าไม้ที่เปล่งประกายซึ่งนำพาดอกไม้บานไปทุกที่ — เวทมนตร์แห่งธรรมชาติที่เคลื่อนไหว
 ฮีโร่ทั้งหมดภายในรัศมี 1 เซลล์จะคงอยู่ยงคงกระพันเป็นเวลา {p0} วินาที เมื่อ HP ของพวกเขาลดลงต่ำกว่า {p1}%","Gittiği her yere çiçekler getiren ışıltılı bir orman ruhu; hareket halindeki doğanın büyüsü.
 1 hücreli bir baskın içindeki tüm Kahramanlar, HP'leri %{p1}'in altına düştüğünde {p0} saniye boyunca yenilmez hale gelir"
@@ -517,13 +517,13 @@ Gây thêm {p0}% sát thương tương ứng với HP hiện tại của mục t
 Inflige {p0} % de dégâts supplémentaires proportionnels aux PV actuels de la cible.","Ein rothäutiger Krieger in dunkler Rüstung mit einem mörderischen Blick – ein Schlag und das Spiel ist vorbei.
 Verursacht zusätzlich {p0} % Schaden proportional zu den aktuellen HP des Ziels.","Un guerrero de piel roja con armadura oscura y una mirada asesina: un golpe y se acabó el juego.
 Inflige un {p0}% de daño adicional proporcional al HP actual del objetivo.","Um guerreiro de pele vermelha com armadura escura e um olhar assassino – um golpe e o jogo acaba.
-Causa {p0}% de dano adicional proporcional ao HP atual do alvo.","محارب ذو بشرة حمراء يرتدي درعًا داكنًا وهجًا قاتلًا - أرجوحة واحدة وتنتهي اللعبة.
+Causa {p0}% de dano adicional proporcional ao HP atual do alvo.","محارب ذو بشرة حمراء يرتدي درعًا داكنًا مع وهج قاتل - ضربة واحدة وتنتهي اللعبة.
 يسبب ضررًا إضافيًا بنسبة {p0}% يتناسب مع صحة الهدف الحالية.","Краснокожий воин в темных доспехах с убийственным взглядом — один взмах, и игра окончена.
 Наносит дополнительный урон на {p0}%, пропорциональный текущему здоровью цели.","검은 갑옷을 입고 살인적인 눈부심을 지닌 붉은 피부의 전사가 한 번 휘두르면 게임이 끝납니다.
 대상의 현재 HP에 비례하여 추가로 {p0}%의 피해를 입힙니다.","Un guerriero dalla pelle rossa con un'armatura scura e uno sguardo assassino: un colpo e il gioco è finito.
 Infligge un ulteriore {p0}% di danno proporzionale agli HP attuali del bersaglio.","गहरे कवच में एक लाल चमड़ी वाला योद्धा, जिसकी कातिलाना चमक है - एक झटका और खेल खत्म।
 लक्ष्य के वर्तमान HP के अनुपात में अतिरिक्त {p0}% क्षति होती है।","Isang mapupulang mandirigma na nakasuot ng dark armor na may killer glare — isang indayog at tapos na ang laro.
-Nagdudulot ng karagdagang {p0}% pinsalang proporsyonal sa kasalukuyang HP ng target.","Seorang prajurit berkulit merah dalam baju besi gelap dengan tatapan mematikan — satu ayunan dan permainan berakhir.
+Nagdudulot ng karagdagang {p0}% pinsalang proporsyonal sa kasalukuyang HP ng target.","Prajurit berkulit merah dengan baju besi gelap dengan tatapan mematikan — satu ayunan dan permainan berakhir.
 Menimbulkan kerusakan tambahan sebesar {p0}% sebanding dengan HP target saat ini.","นักรบผิวแดงในชุดเกราะสีเข้มพร้อมแววตานักฆ่า — เหวี่ยงเพียงครั้งเดียวก็จบเกม
 สร้างความเสียหายเพิ่มเติม {p0}% ตามสัดส่วน HP ปัจจุบันของเป้าหมาย","Koyu renk zırhlı, öldürücü bakışlara sahip, kırmızı tenli bir savaşçı; tek bir vuruşta oyun biter.
 Hedefin mevcut HP'sine orantılı olarak ilave %{p0} hasar verir."
@@ -536,7 +536,7 @@ Lorsque vous battez une cible, inflige {p0} dégâts à un ennemi avec les PV le
 Wenn ein Ziel besiegt wird, fügt es einem Feind mit den niedrigsten HP und allen Helden im Umkreis von 1 Zelle {p0} Schaden zu.","El prodigio de la fundición de monedas.
 Al derrotar a un objetivo, inflige {p0} de daño a un enemigo con el HP más bajo y a todos los héroes dentro de un radio de 1 celda.","O prodígio da fundição de moedas.
 Ao derrotar um alvo, causa {p0} de dano a um inimigo com o HP mais baixo e a todos os Heróis dentro de um raio de 1 célula.","معجزة صب العملة.
-عند هزيمة هدف، يتسبب في ضرر {p0} للعدو الذي يتمتع بأقل نقاط صحة وكل الأبطال في نطاق خلية واحدة.","Чудо-отливщик монет.
+عند هزيمة هدف، يسبب ضررًا {p0} للعدو الذي يتمتع بأقل نقاط صحة وكل الأبطال في نطاق خلية واحدة.","Чудо-отливщик монет.
 При поражении цели наносит {p0} урона врагу с наименьшим количеством здоровья и всем Героям в радиусе 1 клетки.","동전 주조 천재.
 대상 처치 시 HP가 가장 낮은 적과 1셀 반경 내의 모든 영웅에게 {p0}의 피해를 줍니다.","Il prodigio della fusione delle monete.
 Quando sconfiggi un bersaglio, infligge {p0} danni a un nemico con gli HP più bassi e a tutti gli eroi nel raggio di 1 cella.","सिक्का ढलाई करने वाला प्रतिभाशाली व्यक्ति।
@@ -544,7 +544,7 @@ Quando sconfiggi un bersaglio, infligge {p0} danni a un nemico con gli HP più b
 Kapag natalo ang isang target, nagdudulot ng {p0} pinsala sa isang kaaway na may pinakamababang HP at lahat ng Hero sa loob ng 1-cell radius.","Keajaiban dalam mencetak koin.
 Saat mengalahkan target, memberikan {p0} kerusakan pada musuh dengan HP terendah dan semua Pahlawan dalam radius 1 sel.","อัจฉริยะแห่งการหล่อเหรียญ
 เมื่อเอาชนะเป้าหมาย สร้างความเสียหาย {p0} ให้กับศัตรูที่มี HP ต่ำสุดและฮีโร่ทั้งหมดภายในรัศมี 1 เซลล์","Madeni para atma dehası.
-Bir hedefi mağlup ederken, en düşük HP'ye sahip bir düşmana ve 1 hücrelik yarıçap içindeki tüm Kahramanlara {p0} hasar verir."
+Bir hedefi yenerken, en düşük HP'ye sahip bir düşmana ve 1 hücrelik yarıçap içindeki tüm Kahramanlara {p0} hasar verir."
 TXT_HERO_LEVEL_CRUSHER_DES,"The ring king from the wild — every punch roars with the power of a true lion.
 Permanently increases damage by {p0} when defeating a target.","Vua nhẫn đến từ nơi hoang dã - mỗi cú đấm gầm lên với sức mạnh của một con sư tử thực thụ.
 Tăng sát thương vĩnh viễn thêm {p0} khi đánh bại mục tiêu.","来自野外的擂台之王——每一拳都带着真正狮子的力量咆哮。
@@ -609,7 +609,7 @@ L'attacco base è abilitato quando l'Eroe è sbloccato.","एक चतुर �
 हीरो को 1-सेल के दायरे में लॉक कर देता है, {p0} सेकंड के लिए बुनियादी हमलों को अक्षम कर देता है।
 हीरो के अनलॉक होने पर बुनियादी हमला सक्षम हो जाता है।","Isang matalino at mapanlinlang na bayani na kayang i-lock ang target sa oras gamit ang kanyang lock octopus at atakehin ang mga kaaway gamit ang kanyang mga kamay ng octopus.
 Kino-lock ang isang Bayani sa loob ng 1-cell radius, hindi pinapagana ang mga pangunahing pag-atake sa loob ng {p0} (na) segundo.
-Ang pangunahing pag-atake ay pinagana kapag ang Bayani ay na-unlock.","Pahlawan yang cerdas dan licik yang dapat mengunci target tepat waktu dengan gurita penguncinya dan menyerang musuh dengan tangan guritanya.
+Ang pangunahing pag-atake ay pinagana kapag ang Hero ay na-unlock.","Pahlawan yang cerdas dan licik yang dapat mengunci target tepat waktu dengan gurita penguncinya dan menyerang musuh dengan tangan guritanya.
 Mengunci Pahlawan dalam radius 1 sel, menonaktifkan serangan dasar selama {p0} detik.
 Serangan dasar diaktifkan ketika Pahlawan terbuka kuncinya.","ฮีโร่ที่ฉลาดและเจ้าเล่ห์ที่สามารถล็อคเป้าหมายได้ทันเวลาด้วยปลาหมึกยักษ์ล็อค และโจมตีศัตรูด้วยมือปลาหมึกยักษ์
 ล็อคฮีโร่ภายในรัศมี 1 เซลล์ ปิดการใช้งานการโจมตีพื้นฐานเป็นเวลา {p0} วินาที
@@ -623,12 +623,12 @@ Activates special effects according to the number of [Lunar] on the board.
 [5 Lunars] All ally Hero within a 1-cell radius receive a {p2}% critical chance bonus."," Một chiến binh mèo được đào tạo về nghệ thuật cổ xưa.
 Tất cả Anh hùng đồng minh trong bán kính 1 ô đều nhận được phần thưởng tốc độ tấn công {p0}%.
 Kích hoạt các hiệu ứng đặc biệt theo số lượng [Âm lịch] trên bảng.
-[3 Lunars] Tất cả Anh hùng đồng minh trong bán kính 1 ô đều nhận được {p1}% phần thưởng cơ hội quan trọng.
-[5 Lunars] Tất cả Anh hùng đồng minh trong bán kính 1 ô đều nhận được phần thưởng cơ hội chí mạng {p2}%."," 接受过古代艺术训练的猫科战士。
+[3 Mặt Trăng] Tất cả Anh hùng đồng minh trong bán kính 1 ô đều nhận được {p1}% phần thưởng cơ hội quan trọng.
+[5 Lunar] Tất cả Anh hùng đồng minh trong bán kính 1 ô đều nhận được phần thưởng cơ hội chí mạng {p2}%."," 接受过古代艺术训练的猫科战士。
 1 格半径内的所有盟友英雄都会获得 {p0}% 的攻击速度加成。
 根据棋盘上【农历】的数量激活特殊效果。
 [3 个月球] 1 格半径内的所有盟友英雄都会获得 {p1}% 暴击率加成。
-[5 个月球] 1 格半径内的所有盟友英雄都会获得 {p2}% 暴击率加成。",," 古代術の訓練を受けた猫族の戦士。
+[5 个月亮] 1 格半径内的所有盟友英雄都会获得 {p2}% 暴击率加成。",," 古代術の訓練を受けた猫族の戦士。
 半径 1 セル以内にいるすべての味方ヒーローは、{p0}% の攻撃速度ボーナスを受け取ります。
 盤面の【ルナー】の数に応じて特殊効果が発動します。
 [3 Lunars] 半径 1 セル内のすべての味方ヒーローは、{p1}% のクリティカル チャンス ボーナスを受け取ります。
@@ -649,7 +649,7 @@ Todos os Heróis aliados dentro de um raio de 1 célula recebem um bônus de {p0
 Ativa efeitos especiais de acordo com o número de [Lunar] no tabuleiro.
 [3 Lunares] Todos os Heróis aliados dentro de um raio de 1 célula recebem um bônus de chance crítica de {p1}%.
 [5 Lunares] Todos os Heróis aliados dentro de um raio de 1 célula recebem um bônus de chance crítica de {p2}%."," محارب قطط تدرب على الفنون القديمة.
-يحصل جميع الحلفاء الأبطال الموجودين في نطاق خلية واحدة على مكافأة سرعة الهجوم بنسبة {p0}%.
+يحصل كل الحلفاء الأبطال الموجودين في نطاق خلية واحدة على مكافأة سرعة الهجوم بنسبة {p0}%.
 يقوم بتنشيط المؤثرات الخاصة وفقًا لرقم [القمري] الموجود على اللوحة.
 [3 قمريات] جميع الأبطال الحلفاء الموجودين في نطاق خلية واحدة يحصلون على مكافأة فرصة حرجة بنسبة {p1}%.
 [5 قمريات] جميع الأبطال الحلفاء الموجودين في نطاق خلية واحدة يحصلون على مكافأة فرصة حرجة بنسبة {p2}%."," Кошачий воин, обученный древним искусствам.
@@ -693,12 +693,12 @@ Triệu hồi thiên thạch đến một kẻ địch ngẫu nhiên sau {p0} đ
 Invoque un météore sur un ennemi aléatoire après {p0} attaques de base.","Ein uraltes Elementartier, das Feuer schwingt – jeder Schritt erschüttert die Kräfte der Natur.
 Beschwört nach {p0} normalen Angriffen einen Meteor zu einem zufälligen Feind.","Una antigua bestia elemental que empuña fuego: cada paso sacude las fuerzas mismas de la naturaleza.
 Invoca un meteoro a un enemigo aleatorio después de {p0} ataques básicos.","Uma antiga besta elemental empunhando fogo – cada passo abala as próprias forças da natureza.
-Invoca meteoro para um inimigo aleatório após {p0} ataques básicos.","وحش عنصري قديم يستخدم النار - كل خطوة تهز قوى الطبيعة نفسها.
+Invoca meteoro para um inimigo aleatório após {p0} ataques básicos.","وحش عنصري قديم يستخدم النار - كل خطوة تهز قوى الطبيعة ذاتها.
 استدعاء نيزك لعدو عشوائي بعد {p0} من الهجمات الأساسية.","Древний стихийный зверь, владеющий огнем — каждый шаг сотрясает сами силы природы.
-Призывает метеор случайному врагу после {p0} автоатак.","불을 휘두르는 고대의 정령 짐승은 발걸음을 옮길 때마다 자연의 힘 자체를 뒤흔듭니다.
+Призывает метеор случайному врагу после базовых атак {p0}.","불을 휘두르는 고대의 정령 짐승은 발걸음을 옮길 때마다 자연의 힘 자체를 뒤흔듭니다.
 {p0} 기본 공격 후 무작위 적에게 유성을 소환합니다.","Un'antica bestia elementale che brandisce il fuoco: ogni passo scuote le forze stesse della natura.
-Evoca una meteora su un nemico casuale dopo {p0} attacchi base.","अग्नि चलाने वाला एक प्राचीन मौलिक जानवर - हर कदम प्रकृति की शक्तियों को हिला देता है।
-{p0} बुनियादी हमलों के बाद एक यादृच्छिक दुश्मन को उल्कापिंड बुलाता है।","Isang sinaunang elemental na hayop na may hawak na apoy — bawat hakbang ay nanginginig sa mismong pwersa ng kalikasan.
+Evoca una meteora su un nemico casuale dopo {p0} attacchi base.","अग्नि चलाने वाला एक प्राचीन तात्विक जानवर - हर कदम प्रकृति की शक्तियों को हिला देता है।
+{p0} बुनियादी हमलों के बाद एक यादृच्छिक दुश्मन को उल्कापिंड का सम्मन।","Isang sinaunang elemental na hayop na may hawak na apoy — bawat hakbang ay nanginginig sa mismong pwersa ng kalikasan.
 Tumatawag ng meteor sa isang random na kaaway pagkatapos ng {p0} mga pangunahing pag-atake.","Elemental beast kuno yang menghunus api — setiap langkah mengguncang kekuatan alam.
 Memanggil meteor ke musuh acak setelah {p0} serangan dasar.","สัตว์ร้ายธาตุโบราณถือไฟ — ทุกย่างก้าวสั่นสะเทือนพลังแห่งธรรมชาติ
 เรียกดาวตกไปหาศัตรูแบบสุ่มหลังจากการโจมตีพื้นฐาน {p0}","Ateşi kullanan kadim bir element canavarı; her adım doğanın güçlerini sarsıyor.
@@ -715,7 +715,7 @@ Até que não haja mais nenhum alvo disponível, causa {p0}% de dano aumentado a
 حتى لا يتبقى أي هدف متاح، يسبب ضررًا متزايدًا بنسبة {p0}% للعدو داخل دائرة نصف قطرها خلية واحدة للهدف الرئيسي باستخدام قوس كهربائي.","Умный и сильный герой, который может наносить урон по площади с помощью своей электрической пушки и атаковать врагов с помощью пушечного заряда.
 Пока не останется ни одной доступной цели, наносит увеличенный на {p0}% урон врагу в радиусе 1 клетки по основной цели электрической дугой.","전기 캐논으로 AOE 피해를 입히고 캐논 잽으로 적을 공격할 수 있는 똑똑하고 강력한 영웅입니다.
 사용 가능한 대상이 남지 않을 때까지 전기 아크로 주 대상의 1셀 반경 내 적에게 {p0}% 증가된 피해를 줍니다.","Un eroe intelligente e potente che può infliggere danni AOE con il suo canone elettrico e attaccare i nemici con il suo cannone.
-Fino a quando non rimane alcun bersaglio disponibile, infligge il {p0}% di danni aggiuntivi a un nemico entro un raggio di 1 cella al bersaglio principale con un arco elettrico.","एक चतुर और शक्तिशाली नायक जो अपने इलेक्ट्रिक कैनन से एओई क्षति से निपट सकता है और अपने कैनन जैप से दुश्मनों पर हमला कर सकता है।
+Fino a quando non rimane alcun bersaglio disponibile, infligge il {p0}% di danni aumentati a un nemico entro un raggio di 1 cella al bersaglio principale con un arco elettrico.","एक चतुर और शक्तिशाली नायक जो अपने इलेक्ट्रिक कैनन से एओई क्षति से निपट सकता है और अपने कैनन जैप से दुश्मनों पर हमला कर सकता है।
 जब तक कोई उपलब्ध लक्ष्य नहीं बचा है, तब तक एक इलेक्ट्रिक आर्क के साथ मुख्य लक्ष्य के 1-सेल त्रिज्या के भीतर दुश्मन को {p0}% बढ़ी हुई क्षति पहुंचाता है।","Isang matalino at makapangyarihang bayani na kayang harapin ang pinsala sa AOE gamit ang kanyang electric canon at atakihin ang mga kaaway gamit ang kanyang canon zap.
 Hanggang sa walang natitira sa availabel na target, magbibigay ng {p0}% na tumaas na pinsala sa isang kaaway sa loob ng 1-cell radius sa pangunahing target na may electric arc.","Pahlawan yang cerdas dan kuat yang dapat memberikan kerusakan AOE dengan canon listriknya dan menyerang musuh dengan canon zap miliknya.
 Hingga tidak ada lagi target yang tersisa, memberikan {p0}% peningkatan kerusakan pada musuh dalam radius 1 sel ke target utama dengan busur listrik.","ฮีโร่ที่ฉลาดและทรงพลังที่สามารถสร้างความเสียหายแบบ AOE ด้วยปืนใหญ่ไฟฟ้าของเขา และโจมตีศัตรูด้วยการยิงปืนใหญ่ของเขา
@@ -734,11 +734,11 @@ Une fois vaincu, redonne vie à un héros dans un rayon d'une cellule avec {p0}�
 N'affecte pas les autres Rebirth Angel","Ein bezaubernder kleiner Dämon mit hypnotischen Augen und Fledermausflügeln – außen süß, innen tödlich.
 Wenn er besiegt wird, erweckt er einen Helden im Umkreis von 1 Zelle mit {p0} % HP wieder zum Leben.
 Hat keinen Einfluss auf andere Wiedergeburtsengel","Un pequeño demonio encantador con ojos hipnóticos y alas de murciélago: dulce por fuera, mortal por dentro.
-Cuando es derrotado, devuelve la vida a un héroe dentro de un radio de 1 celda con {p0}% HP.
+Cuando es derrotado, devuelve la vida a un héroe dentro de un radio de 1 celda con un {p0} % de HP.
 No afecta a otros ángeles del renacimiento.","Um pequeno demônio encantador com olhos hipnóticos e asas de morcego – doce por fora, mortal por baixo.
 Quando derrotado, traz de volta à vida um Herói em um raio de 1 célula com {p0}% de HP.
 Não afeta outro Anjo do Renascimento","شيطان صغير ساحر بعيون منومة وأجنحة خفافيش - حلو من الخارج ومميت من الأسفل.
-عند الهزيمة، يتم إرجاع بطل واحد داخل نطاق خلية واحدة إلى الحياة بنسبة {p0}% من الصحة.
+عند الهزيمة، يتم إرجاع بطل واحد داخل دائرة نصف قطرها خلية واحدة إلى الحياة بنسبة {p0}% من الصحة.
 لا يؤثر على ملاك إعادة الميلاد الآخر","Очаровательный маленький демон с гипнотическими глазами и крыльями летучей мыши, милый снаружи и смертоносный внутри.
 При поражении возвращает к жизни одного героя в радиусе 1 клетки с {p0}% здоровья.
 Не влияет на других Ангелов Возрождения.","최면에 걸린 듯한 눈과 박쥐 날개를 지닌 매력적인 작은 악마. 겉은 달콤하고 속은 치명적입니다.
@@ -761,67 +761,67 @@ This effect is activated only when 1 [Swampjaw] is on the board.
 When defeated, the Hero turns into an egg with {p0}% HP and comes back to life after {p1} second(s).
 Upon resurrection, the Hero deals {p2} damage to all enemies within a 2-cell radius.
 It also increases all allies's attack value by {p3} after the resurrection.","Một con cá sấu đầm lầy – mỗi cú đấm đều chứa đựng sức mạnh hoang dã của rừng rậm.
-Hiệu ứng này chỉ được kích hoạt khi có 1 [Reborn Fury] trên bàn.
+Hiệu ứng này chỉ được kích hoạt khi có 1 [Swampjaw] trên bàn.
 Khi bị đánh bại, Anh hùng biến thành một quả trứng có {p0}% HP và sống lại sau {p1} giây.
 Sau khi hồi sinh, Anh hùng gây sát thương {p2} cho tất cả kẻ thù trong bán kính 2 ô.
 Nó cũng tăng giá trị tấn công của tất cả đồng minh thêm {p3} sau khi hồi sinh.","沼泽争斗鳄鱼——每一拳都蕴藏着丛林的狂野力量。
-该效果仅在场上有1张[重生之怒]时发动。
+该效果仅在场上有1个[沼泽之颚]时发动。
 被击败后，英雄会变成一颗拥有 {p0}% 生命值的蛋，并在 {p1} 秒后复活。
 复活后，英雄会对 2 格半径内的所有敌人造成 {p2} 点伤害。
 复活后所有盟友的攻击值也会增加{p3}。",,"沼地の喧嘩屋ワニ — すべてのパンチにはジャングルの野生の力が詰まっています。
-この効果は盤面に「リボーン・フューリー」が１枚存在する場合に発動する。
+この効果は盤面に「スワンプジョー」が１枚存在する場合に発動する。
 敗北すると、ヒーローは {p0}% の HP を持つ卵に変わり、{p1} 秒後に復活します。
 復活すると、ヒーローは半径 2 セル以内のすべての敵に {p2} のダメージを与えます。
 また、復活後は味方全員の攻撃値が {p3} 増加します。","Un crocodile bagarreur des marais : chaque coup de poing contient la puissance sauvage de la jungle.
-Cet effet n'est activé que lorsque 1 [Reborn Fury] est sur le plateau.
+Cet effet n'est activé que lorsque 1 [Swampjaw] est sur le plateau.
 Une fois vaincu, le héros se transforme en œuf avec {p0} % de PV et revient à la vie après {p1} seconde(s).
 Lors de sa résurrection, le Héros inflige {p2} dégâts à tous les ennemis dans un rayon de 2 cellules.
 Cela augmente également la valeur d'attaque de tous les alliés de {p3} après la résurrection.","Ein Sumpfschläger-Krokodil – in jedem Schlag steckt die wilde Kraft des Dschungels.
-Dieser Effekt wird nur aktiviert, wenn 1 [Reborn Fury] auf dem Spielbrett ist.
+Dieser Effekt wird nur aktiviert, wenn 1 [Swampjaw] auf dem Spielbrett ist.
 Wenn er besiegt wird, verwandelt sich der Held in ein Ei mit {p0} % HP und erwacht nach {p1} Sekunde(n) wieder zum Leben.
 Bei der Wiederauferstehung fügt der Held allen Feinden im Umkreis von 2 Zellen {p2} Schaden zu.
 Außerdem erhöht es nach der Wiederauferstehung den Angriffswert aller Verbündeten um {p3}.","Un cocodrilo luchador del pantano: cada golpe contiene el poder salvaje de la jungla.
-Este efecto se activa solo cuando hay 1 [Reborn Fury] en el tablero.
+Este efecto se activa solo cuando hay 1 [Swampjaw] en el tablero.
 Cuando es derrotado, el héroe se convierte en un huevo con un {p0}% de HP y vuelve a la vida después de {p1} segundo(s).
 Al resucitar, el héroe inflige {p2} de daño a todos los enemigos dentro de un radio de 2 celdas.
 También aumenta el valor de ataque de todos los aliados en {p3} después de la resurrección.","Um crocodilo lutador do pântano – cada golpe traz o poder selvagem da selva.
-Este efeito é ativado somente quando 1 [Fúria Renascida] está no tabuleiro.
+Este efeito é ativado somente quando 1 [Swampjaw] está no tabuleiro.
 Ao ser derrotado, o Herói se transforma em um ovo com {p0}% de HP e volta à vida após {p1} segundo(s).
 Após a ressurreição, o Herói causa {p2} de dano a todos os inimigos em um raio de 2 células.
 Também aumenta o valor de ataque de todos os aliados em {p3} após a ressurreição.","تمساح مستنقع شجاع - كل لكمة تحزم القوة البرية للغابة.
-يتم تنشيط هذا التأثير فقط عندما يكون 1 [Reborn Fury] على اللوحة.
+يتم تنشيط هذا التأثير فقط عندما يكون 1 [Swampjaw] على اللوحة.
 عند هزيمته، يتحول البطل إلى بيضة بقوة {p0}% من الصحة ويعود إلى الحياة بعد {p1} ثانية.
 عند القيامة، يُلحق البطل ضررًا {p2} بجميع الأعداء داخل دائرة نصف قطرها خليتين.
 كما أنه يزيد من قيمة هجوم جميع الحلفاء بمقدار {p3} بعد القيامة.","Болотный крокодил — каждый удар несет в себе дикую силу джунглей.
-Этот эффект активируется только тогда, когда на поле находится 1 [Возрожденная ярость].
+Этот эффект активируется только тогда, когда на доске находится 1 [Болотная Челюсть].
 После поражения Герой превращается в яйцо с {p0}% здоровья и возвращается к жизни через {p1} секунд.
 При воскрешении Герой наносит {p2} урона всем врагам в радиусе 2 клеток.
 Это также увеличивает силу атаки всех союзников на {p3} после воскрешения.","늪 싸움꾼 악어 — 모든 펀치에는 정글의 강력한 힘이 담겨 있습니다.
-이 효과는 보드에 [리본 퓨리] 1개가 있을 때만 활성화됩니다.
+이 효과는 보드에 [Swampjaw] 1개가 있을 때만 활성화됩니다.
 패배하면 영웅은 {p0}% HP의 알로 변하고 {p1}초 후에 다시 살아납니다.
 부활 시 영웅은 2셀 반경 내의 모든 적에게 {p2}의 피해를 입힙니다.
 또한 부활 후 모든 아군의 공격력이 {p3}만큼 증가합니다.","Un coccodrillo attaccabrighe della palude: ogni pugno racchiude la potenza selvaggia della giungla.
-Questo effetto viene attivato solo quando 1 [Reborn Fury] è sul tabellone.
+Questo effetto viene attivato solo quando 1 [Swampjaw] è sul tabellone.
 Una volta sconfitto, l'Eroe si trasforma in un uovo con {p0}% HP e torna in vita dopo {p1} secondo/i.
 Alla resurrezione, l'Eroe infligge {p2} danni a tutti i nemici entro un raggio di 2 celle.
 Inoltre aumenta il valore di attacco di tutti gli alleati di {p3} dopo la resurrezione.","एक दलदल विवाद करनेवाला मगरमच्छ - हर मुक्का जंगल की जंगली शक्ति को पैक करता है।
-यह प्रभाव तभी सक्रिय होता है जब 1 [पुनर्जन्म रोष] बोर्ड पर होता है।
+यह प्रभाव तभी सक्रिय होता है जब 1 [स्वैम्पजॉ] बोर्ड पर होता है।
 पराजित होने पर, हीरो {p0}% HP के साथ एक अंडे में बदल जाता है और {p1} सेकंड के बाद वापस जीवित हो जाता है।
 पुनरुत्थान पर, हीरो 2-सेल के दायरे में सभी दुश्मनों को {p2} नुकसान पहुंचाता है।
 पुनरुत्थान के बाद यह सभी सहयोगियों के आक्रमण मूल्य को {p3} तक बढ़ा देता है।","Isang swamp brawler croc — bawat suntok ay naglalaman ng mabangis na kapangyarihan ng gubat.
-Ang epektong ito ay isinaaktibo lamang kapag 1 [Reborn Fury] ang nasa board.
+Ang epektong ito ay isinaaktibo lamang kapag 1 [Swampjaw] ang nasa board.
 Kapag natalo, ang Bayani ay nagiging itlog na may {p0}% HP at muling nabubuhay pagkalipas ng {p1} (mga) segundo.
 Sa muling pagkabuhay, ang Bayani ay magbibigay ng {p2} pinsala sa lahat ng mga kaaway sa loob ng 2-cell radius.
 Pinapataas din nito ang halaga ng pag-atake ng lahat ng mga kaalyado ng {p3} pagkatapos ng muling pagkabuhay.","Buaya petarung rawa — setiap pukulan mengandung kekuatan liar hutan.
-Efek ini hanya aktif ketika 1 [Reborn Fury] ada di papan.
+Efek ini hanya aktif ketika 1 [Swampjaw] ada di papan.
 Saat dikalahkan, Pahlawan berubah menjadi telur dengan {p0}% HP dan hidup kembali setelah {p1} detik.
 Setelah dibangkitkan, Pahlawan memberikan kerusakan sebesar {p2} ke semua musuh dalam radius 2 sel.
 Ini juga meningkatkan nilai serangan semua sekutu sebesar {p3} setelah kebangkitan.","จระเข้นักสู้ในหนองน้ำ - ทุกหมัดอัดแน่นไปด้วยพลังอันดุเดือดของป่า
-เอฟเฟกต์นี้จะใช้งานได้เมื่อมี [Reborn Fury] 1 ตัวอยู่บนกระดานเท่านั้น
+เอฟเฟกต์นี้จะใช้งานได้เมื่อมี [Swampjaw] 1 อันอยู่บนกระดานเท่านั้น
 เมื่อพ่ายแพ้ ฮีโร่จะกลายเป็นไข่ที่มี HP {p0}% และกลับมามีชีวิตอีกครั้งหลังจาก {p1} วินาที
 เมื่อฟื้นคืนชีพ ฮีโร่จะสร้างความเสียหาย {p2} ให้กับศัตรูทั้งหมดภายในรัศมี 2 เซลล์
 นอกจากนี้ยังเพิ่มมูลค่าการโจมตีของพันธมิตรทั้งหมดอีก {p3} หลังจากการฟื้นคืนชีพ","Bir bataklık savaşçısı timsahı; her yumruk, ormanın vahşi gücünü paketler.
-Bu etki yalnızca tahtada 1 [Yeniden Doğmuş Öfke] olduğunda etkinleştirilir.
+Bu efekt yalnızca 1 [Swampjaw] tahtada olduğunda etkinleştirilir.
 Yenilgiye uğradığında, Kahraman %{p0} SP'ye sahip bir yumurtaya dönüşür ve {p1} saniye sonra hayata geri döner.
 Diriliş üzerine Kahraman, 2 hücrelik yarıçap içindeki tüm düşmanlara {p2} hasar verir.
 Ayrıca dirilişten sonra tüm müttefiklerin saldırı değerini {p3} artırır."
@@ -936,70 +936,70 @@ Increases attack speed of all allies in battle by 3%.
 If there are 3 Bunma Shisai on the field, all enemies have their attack speed reduced by 15%.
 If there are 5 Bunma Shisai on the field, all enemies have their attack speed reduced by 25%.
 Effects apply to both allies and enemies with the same star level.","Mỗi lời tụng kinh của anh ấy sẽ quyết định số phận của bạn.
-- Tăng 3% tốc độ chiến đấu cả đồng minh trong trận chiến
-- Nếu có 3 Speedy Violin trong trận đấu, tất cả các kẻ thù trong trận chiến đều trừ tốc độ chiến đấu 15%
-- Nếu có 5 Speedy Violin trong trận đấu, tất cả các kẻ thù trong trận chiến đều trừ đi 25% tốc độ chiến đấu
-- Có tác dụng với đồng minh và trả thù khi có cùng sao.","他的每一次吟唱都决定了你的命运。
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Nếu có 3 Speedy Violin trong trận đấu, tất cả kẻ thù trong trận chiến bị trừ 15% tốc độ đánh
-- Nếu có 5 Speedy Violin trong trận đấu, Tất cả kẻ thù trong trận chiến bị trừ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng 明星。",,"彼のあらゆる詠唱があなたの運命を決定します。
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Nếu có 3 Speedy Violin trong trận đấu, tất cả kẻ thù trong trận chiến bị trừ 15% tốc độ đánh
-- Nếu có 5 Speedy Violin trong trận đấu, Tất cả kẻ thù trong trận chiến bị trừ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng star。","Chacun de ses chants scelle votre destin.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Vous avez 3 Speedy Violin à 15% à 15%
-- Vous avez 5 Speedy Violin à 25% à 25%
-- Có tác dụng với đồng minh et kẻ thù có cùng star.","Jeder seiner Gesang besiegelt dein Schicksal.
-- Tăng 3% tốc độ đánh tất cả đồng minh trận chiến
-- Neu bei 3 Speedy Violin mit einem Bonus von 15 %
-- Neu bei 5 Speedy Violin mit einem Bonus von 25 %
-- Có tác dụng với đồng minh und kẻ thù khi có cùng star.","Cada uno de sus cantos sella tu destino.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Nếu có 3 Speedy Violin dentro de trận đấu, tất cả kẻ thù entre trận chiến bị trừ 15% tốc độ đánh
-- Nếu có 5 Speedy Violin dentro de trận đấu, Tất cả kẻ thù trong trận chiến bị trừ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng star.","Cada canto dele sela o seu destino.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Você tem 3 violinos rápidos em uma faixa de 15%, em uma taxa de 15% de taxa de juros
-- Você tem 5 violinos rápidos em uma faixa, Tất cả kẻ thù em uma faixa de volume de 25% de taxa de juros
-- Có tác dụng với đồng minh e kẻ thù khi có cùng star.","كل ترنيمة له تحدد مصيرك.
-- نسبة 3% من المبلغ الإجمالي للدولار الأمريكي في جميع أنحاء العالم
-- لدينا 3 الكمان السريع في جميع أنحاء العالم، وهو أعلى من 15٪ من إجمالي المبلغ
-- أفضل 5 كمان سريع في العالم، احصل على 25% من إجمالي الكمان في هذا الكمان
-- Có tác dụng với đồng minh و kẻ thù khi có cùng star.","Каждое его пение решает вашу судьбу.
-- Танг 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Если вы играете на 3 Speedy Violin, то вы получаете 15% общего дохода
-- Nếu có 5 Speedy Violin trong trận đấu, Tất cả kẻ thù trong trận chiến b trừ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng star.","그의 모든 성가가 당신의 운명을 결정합니다.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Nếu có 3 Speedy Violin trong trận đấu, tất cả kẻ thù trong trận chiến bị trừ 15% tốc độ đánh
-- Nếu có 5 Speedy Violin trong trận đấu, Tất cả kẻ thù trong trận chiến bị trừ 25% tốc độ đánh
--Có tác dụng với đồng minh và kẻ thù khi có cùng star.","Ogni suo canto segna il tuo destino.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Hai 3 Speedy Violin nel carrello, ottieni il 15% di sconto sul violino veloce
-- Hai 5 Speedy Violin nel carrello, Ottieni il punteggio massimo del 25%
-- Có tác dụng với đồng minh e kẻ thù khi có cùng star.","उनका हर मंत्र आपके भाग्य पर मुहर लगाता है।
-- तीन प्रतिशत से अधिक की छूट
-- अब 3 स्पीडी वायलिन की कीमत 15% से अधिक है
-- अब 5 स्पीडी वायलिन की कीमत 25% से अधिक है
-- मुझे लगता है कि यह मेरा सितारा है।","Ang bawat pag-awit niya ay tumatatak sa iyong kapalaran.
-- Tăng 3% tốc độ đánh tất cả đồng minh trong trận chiến
-- Sa pamamagitan ng 3 Speedy Violin sa trận đấu, tất cả kẻ thù trong trận chiến bị trừ 15% tốc độ đánh
-- Sa 5 Speedy Violin trong trận đấu, Tất cả kẻ thù trong trận chiến bị trừ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng star.","Setiap nyanyiannya menentukan nasib Anda.
-- Tăng 3% tốc độ đánh tất cả đồng minh di dalam lemari
-- Jika tidak ada 3 Speedy Violin di trận đấu, tất cả kẻ thù trong trận chiến bị trừ 15% tốc độ đánh
-- Jika ada 5 Speedy Violin di dalam wadah, Isinya 25% tốc độ đánh
-- Có tác dụng với đồng minh dan kẻ thù khi có cùng bintang.","ทุกบทสวดของเขาปิดผนึกชะตากรรมของคุณ
-- Tăng 3% สำหรับเงินที่จ่ายไป
-- มี 3 Speedy Violin สำหรับไวโอลิน 15% สำหรับไวโอลิน
-- มี 5 Speedy Violin สำหรับไวโอลิน, Tất cá kẻ thù trong trến chiến และ 25% tốc độ đánh
-- Có tác dụng với đồng minh và kẻ thù khi có cùng star","Onun her ilahisi kaderinizi mühürler.
-- En az %3 oranında bir artışla en düşük faiz oranı
-- 3 Speedy Violin'in her yıl %15'e ulaşmasıyla birlikte, daha sonra
-- 5 Speedy Violin'den daha fazlası, daha sonra %25'lik bir oranla %25'e ulaşıyor.
-- Bir yıldız gibi bir şey yaptım ve bir yıldıza dönüştüm."
+Tăng tốc độ tấn công của tất cả đồng minh trong trận chiến thêm 3%.
+Nếu có 3 Bunma Shisai trên sân, tất cả kẻ địch bị giảm 15% tốc độ tấn công.
+Nếu có 5 Bunma Shisai trên sân, tất cả kẻ địch bị giảm 25% tốc độ tấn công.
+Hiệu ứng áp dụng cho cả đồng minh và kẻ thù có cùng cấp sao.","他的每一次吟唱都决定了你的命运。
+战斗中所有友方攻击速度增加3%。
+场上有3名文马志斋时，所有敌人的攻击速度降低15%。
+如果场上有5个文马志斋，则所有敌人的攻击速度降低25%。
+效果适用于具有相同星级的盟友和敌人。",,"彼のあらゆる詠唱があなたの運命を決定します。
+戦闘中の味方全員の攻撃速度が3%増加します。
+フィールド上にブンマシサイが3体いる場合、敵全体の攻撃速度が15％ダウン。
+フィールド上にブンマシサイが5体いる場合、敵全体の攻撃速度が25%ダウン。
+効果は同じスターレベルの敵と味方の両方に適用されます。","Chacun de ses chants scelle votre destin.
+Augmente la vitesse d'attaque de tous les alliés au combat de 3%.
+S'il y a 3 Bunma Shisai sur le terrain, tous les ennemis voient leur vitesse d'attaque réduite de 15%.
+S'il y a 5 Bunma Shisai sur le terrain, tous les ennemis voient leur vitesse d'attaque réduite de 25%.
+Les effets s'appliquent aux alliés et aux ennemis ayant le même niveau d'étoile.","Jeder seiner Gesang besiegelt dein Schicksal.
+Erhöht die Angriffsgeschwindigkeit aller Verbündeten im Kampf um 3 %.
+Wenn sich 3 Bunma Shisai auf dem Spielfeld befinden, wird die Angriffsgeschwindigkeit aller Feinde um 15 % verringert.
+Wenn sich 5 Bunma Shisai auf dem Spielfeld befinden, wird die Angriffsgeschwindigkeit aller Feinde um 25 % verringert.
+Die Effekte gelten sowohl für Verbündete als auch für Feinde mit derselben Sternstufe.","Cada uno de sus cantos sella tu destino.
+Aumenta la velocidad de ataque de todos los aliados en batalla en un 3%.
+Si hay 3 Bunma Shisai en el campo, la velocidad de ataque de todos los enemigos se reduce en un 15%.
+Si hay 5 Bunma Shisai en el campo, la velocidad de ataque de todos los enemigos se reduce en un 25%.
+Los efectos se aplican tanto a aliados como a enemigos con el mismo nivel de estrella.","Cada canto dele sela o seu destino.
+Aumenta a velocidade de ataque de todos os aliados em batalha em 3%.
+Se houver 3 Bunma Shisai no campo, todos os inimigos terão sua velocidade de ataque reduzida em 15%.
+Se houver 5 Bunma Shisai no campo, todos os inimigos terão sua velocidade de ataque reduzida em 25%.
+Os efeitos se aplicam a aliados e inimigos com o mesmo nível de estrela.","كل ترنيمة له تحدد مصيرك.
+تزيد سرعة الهجوم لجميع الحلفاء في المعركة بنسبة 3%.
+إذا كان هناك 3 بونما شيساي في الملعب، فإن سرعة هجوم جميع الأعداء تنخفض بنسبة 15%.
+إذا كان هناك 5 من Bunma Shisai في الملعب، فإن سرعة هجوم جميع الأعداء تنخفض بنسبة 25%.
+تنطبق التأثيرات على كل من الحلفاء والأعداء بنفس مستوى النجمة.","Каждое его пение решает вашу судьбу.
+Увеличивает скорость атаки всех союзников в бою на 3%.
+Если на поле находятся 3 Бунма Шисай, скорость атаки всех врагов снижается на 15%.
+Если на поле находится 5 Бунма Шисай, скорость атаки всех врагов снижается на 25%.
+Эффекты применяются как к союзникам, так и к врагам с одинаковым звездным уровнем.","그의 모든 성가가 당신의 운명을 결정합니다.
+전투에 참여하는 모든 아군의 공격 속도가 3% 증가합니다.
+필드에 분마 시사이가 3마리 있을 경우 모든 적의 공격 속도가 15% 감소합니다.
+필드에 분마 시사이가 5마리 있으면 모든 적의 공격 속도가 25% 감소합니다.
+같은 별 레벨의 아군과 적 모두에게 효과가 적용됩니다.","Ogni suo canto segna il tuo destino.
+Aumenta la velocità d'attacco di tutti gli alleati in battaglia del 3%.
+Se ci sono 3 Bunma Shisai sul campo, la velocità di attacco di tutti i nemici verrà ridotta del 15%.
+Se ci sono 5 Bunma Shisai sul campo, la velocità di attacco di tutti i nemici verrà ridotta del 25%.
+Gli effetti si applicano sia agli alleati che ai nemici con lo stesso livello stella.","उनका हर मंत्र आपके भाग्य पर मुहर लगाता है।
+युद्ध में सभी सहयोगियों की हमले की गति 3% बढ़ जाती है।
+यदि मैदान पर 3 बनमा शिसाई हैं, तो सभी दुश्मनों की हमले की गति 15% कम हो जाती है।
+यदि मैदान पर 5 बनमा शिसाई हैं, तो सभी दुश्मनों की हमले की गति 25% कम हो जाती है।
+प्रभाव समान स्टार स्तर वाले सहयोगियों और शत्रुओं दोनों पर लागू होते हैं।","Ang bawat pag-awit niya ay tumatatak sa iyong kapalaran.
+Pinapataas ng 3% ang bilis ng pag-atake ng lahat ng kaalyado sa labanan.
+Kung mayroong 3 Bunma Shisai sa field, lahat ng mga kaaway ay mababawasan ng 15% ang bilis ng pag-atake.
+Kung mayroong 5 Bunma Shisai sa field, lahat ng mga kaaway ay mababawasan ng 25%.
+Nalalapat ang mga epekto sa parehong mga kaalyado at mga kaaway na may parehong antas ng bituin.","Setiap nyanyiannya menentukan nasib Anda.
+Meningkatkan kecepatan serangan semua sekutu dalam pertempuran sebesar 3%.
+Jika ada 3 Bunma Shisai di lapangan, kecepatan serangan semua musuh berkurang 15%.
+Jika ada 5 Bunma Shisai di lapangan, kecepatan serangan semua musuh berkurang 25%.
+Efek berlaku untuk sekutu dan musuh dengan level bintang yang sama.","ทุกบทสวดของเขาปิดผนึกชะตากรรมของคุณ
+เพิ่มความเร็วการโจมตีของพันธมิตรทั้งหมดในการต่อสู้ 3%
+หากมีบุนมะ ชิไซ 3 ตัวอยู่บนสนาม ศัตรูทั้งหมดจะมีความเร็วในการโจมตีลดลง 15%
+หากมีบุนมะ ชิไซ 5 ตัวอยู่บนสนาม ศัตรูทั้งหมดจะมีความเร็วในการโจมตีลดลง 25%
+เอฟเฟกต์มีผลกับทั้งพันธมิตรและศัตรูที่มีระดับดาวเท่ากัน","Onun her ilahisi kaderinizi mühürler.
+Savaştaki tüm müttefiklerin saldırı hızını %3 artırır.
+Sahada 3 Bunma Shisai varsa tüm düşmanların saldırı hızları %15 azalır.
+Sahada 5 Bunma Shisai varsa tüm düşmanların saldırı hızları %25 azalır.
+Etkiler aynı yıldız seviyesine sahip hem müttefiklere hem de düşmanlara uygulanır."
 TXT_HERO_STEEL_BLADER_DES,"A horned beast-warrior with glowing eyes and a deadly blade — getting close is a bad idea.
 Capable of dealing high damage despite the low attack range.","Một chiến binh quái thú có sừng với đôi mắt phát sáng và lưỡi kiếm chết người - đến gần là một ý tưởng tồi.
 Có khả năng gây sát thương cao dù tầm tấn công thấp.","一个长角的野兽战士，眼睛发光，手持致命的刀刃——靠近可不是个好主意。
@@ -1020,7 +1020,7 @@ Mampu memberikan damage yang tinggi meskipun jangkauan serangannya rendah.","น
 Düşük saldırı menziline rağmen yüksek hasar verme kapasitesine sahiptir."
 TXT_HERO_TELEPORT_SAMURAI_DES,"A royal blade master with lightning moves and unwavering loyalty — swift, sharp, and unstoppable.
 Teleports to a random cell when HP drops below {p0}%.","Một bậc thầy kiếm thuật hoàng gia với những bước di chuyển nhanh như chớp và lòng trung thành không lay chuyển - nhanh nhẹn, sắc bén và không thể ngăn cản.
-Dịch chuyển đến một ô ngẫu nhiên khi HP giảm xuống dưới {p0}%.","一位皇家刀剑大师，拥有闪电般的动作和坚定不移的忠诚——迅速、锋利、势不可挡。
+Dịch chuyển đến một ô ngẫu nhiên khi HP giảm xuống dưới {p0}%.","一位皇家剑术大师，拥有闪电般的动作和坚定不移的忠诚——迅速、锋利、势不可挡。
 当 HP 低于 {p0}% 时传送到随机单元。",,"電光石火の動きと揺るぎない忠誠心を備えたロイヤルブレードマスターであり、素早く、鋭く、そして止められません。
 HPが{p0}%を下回ると、ランダムなセルにテレポートします。","Un maître de l'épée royal doté de mouvements fulgurants et d'une loyauté inébranlable : rapide, tranchant et imparable.
 Se téléporte vers une cellule aléatoire lorsque HP descend en dessous de {p0}%.","Ein königlicher Klingenmeister mit blitzschnellen Bewegungen und unerschütterlicher Loyalität – schnell, scharfsinnig und unaufhaltsam.
@@ -1034,13 +1034,13 @@ Si teletrasporta in una cella casuale quando gli HP scendono al di sotto del {p0
 जब HP {p0}% से नीचे चला जाता है तो एक यादृच्छिक सेल पर टेलीपोर्ट हो जाता है।","Isang royal blade master na may kidlat na galaw at hindi natitinag na katapatan — matulin, matalas, at hindi mapigilan.
 Nag-teleport sa isang random na cell kapag bumaba ang HP sa ibaba {p0}%.","Seorang ahli pedang kerajaan dengan gerakan kilat dan kesetiaan yang tak tergoyahkan — cepat, tajam, dan tak terhentikan.
 Teleportasi ke sel acak ketika HP turun di bawah {p0}%.","ปรมาจารย์ดาบแห่งราชวงศ์ที่มีการเคลื่อนไหวดุจสายฟ้าและความจงรักภักดีอันแน่วแน่ — รวดเร็ว เฉียบคม และไม่อาจหยุดยั้งได้
-เทเลพอร์ตไปยังเซลล์สุ่มเมื่อ HP ลดลงต่ำกว่า {p0}%","Şimşek hareketlerine ve sarsılmaz sadakate sahip, hızlı, keskin ve durdurulamaz bir asil kılıç ustası.
+เทเลพอร์ตไปยังเซลล์สุ่มเมื่อ HP ลดลงต่ำกว่า {p0}%","Yıldırım hareketlerine ve sarsılmaz sadakate sahip, hızlı, keskin ve durdurulamaz bir asil kılıç ustası.
 HP %{p0}'in altına düştüğünde rastgele bir hücreye ışınlanır."
 TXT_HERO_TOXIC_REVIVE_DES,"A hero who wields a toxic substance and can revive his allies when they die.
 When defeated, summons an ally Hero with in the highest dot count to its position.
 The summoned Hero instantly recovers {p0}% of its max HP.","Một anh hùng sử dụng chất độc và có thể hồi sinh đồng minh của mình khi họ chết.
 Khi bị đánh bại, triệu hồi một Anh hùng đồng minh có số chấm cao nhất về vị trí của nó.
-Anh hùng được triệu hồi ngay lập tức hồi phục {p0}% HP tối đa của nó.","拥有有毒物质并能在盟友死亡时复活他们的英雄。
+Anh hùng được triệu hồi ngay lập tức hồi phục {p0}% HP tối đa của nó.","拥有有毒物质并能在盟友死亡后复活的英雄。
 被击败后，召唤一名点数最多的盟友英雄到其位置。
 召唤的英雄立即恢复其最大生命值的 {p0}%。",,"有毒物質を操り、仲間が死亡しても蘇生できる英雄。
 敗北すると、最もドット数の多い味方ヒーローをその位置に召喚します。
@@ -1063,7 +1063,7 @@ Quando viene sconfitto, evoca nella sua posizione un eroe alleato con il puntegg
 L'eroe evocato recupera istantaneamente il {p0}% dei suoi HP massimi.","एक नायक जो विषाक्त पदार्थ का उपयोग करता है और अपने सहयोगियों के मरने पर उन्हें पुनर्जीवित कर सकता है।
 पराजित होने पर, उच्चतम बिंदु गिनती वाले सहयोगी हीरो को अपने स्थान पर बुलाता है।
 बुलाया गया हीरो तुरंत अपने अधिकतम HP का {p0}% पुनर्प्राप्त कर लेता है।","Isang bayani na may toxic substance at kayang buhayin ang kanyang mga kapanalig kapag sila ay namatay.
-Kapag natalo, tatawag ng isang kaalyado na Hero na may pinakamataas na bilang ng tuldok sa posisyon nito.
+Kapag natalo, tatawagin ang isang kaalyado na Hero na may pinakamataas na bilang ng tuldok sa posisyon nito.
 Agad na nabawi ng tinawag na Hero ang {p0}% ng max nitong HP.","Seorang pahlawan yang menggunakan zat beracun dan dapat menghidupkan kembali sekutunya ketika mereka mati.
 Saat dikalahkan, panggil Pahlawan sekutu dengan jumlah titik tertinggi ke posisinya.
 Pahlawan yang dipanggil langsung memulihkan {p0}% dari HP maksimalnya.","ฮีโร่ที่ใช้สารพิษและสามารถชุบชีวิตพันธมิตรของเขาเมื่อพวกเขาตาย
@@ -1102,19 +1102,19 @@ Cria um arco elétrico que causa {p0} de dano a um inimigo dentro de um raio de 
 Создает электрическую дугу, которая наносит {p0} урона врагу в радиусе 1 клетки от цели.","서부에서 온 가면을 쓴 총잡이.
 대상으로부터 1셀 반경 내의 적에게 {p0} 피해를 주는 전기 아크를 생성합니다.","Un pistolero mascherato del selvaggio west.
 Crea un arco elettrico che infligge {p0} danni a un nemico entro un raggio di 1 cella dal bersaglio","जंगली पश्चिम से एक नकाबपोश बंदूकधारी।
-एक इलेक्ट्रिक आर्क बनाता है जो लक्ष्य के 1-सेल त्रिज्या के भीतर दुश्मन को {p0} क्षति पहुंचाता है","Isang masked gunslinger mula sa wild west.
+एक इलेक्ट्रिक आर्क बनाता है जो लक्ष्य के 1-सेल त्रिज्या के भीतर दुश्मन को {p0} नुकसान पहुंचाता है","Isang masked gunslinger mula sa wild west.
 Gumagawa ng electric arc na nagdudulot ng {p0} pinsala sa isang kaaway sa loob ng 1-cell radius ng target","Seorang penembak jitu bertopeng dari wilayah barat yang liar.
-Menciptakan busur listrik yang menimbulkan kerusakan sebesar {p0} pada musuh dalam radius 1 sel dari target","มือปืนสวมหน้ากากจากแดนตะวันตก
+Membuat busur listrik yang menimbulkan kerusakan sebesar {p0} pada musuh dalam radius 1 sel dari target","มือปืนสวมหน้ากากจากแดนตะวันตก
 สร้างส่วนโค้งไฟฟ้าที่สร้างความเสียหาย {p0} ให้กับศัตรูภายในรัศมี 1 เซลล์ของเป้าหมาย","Vahşi batıdan gelen maskeli bir silahşör.
 Hedefin 1 hücrelik yarıçapındaki bir düşmana {p0} hasar veren bir elektrik arkı oluşturur"
 TXT_HERO_WEREWOLF_DES,"This effect is activated only when 2 or fewer [Werewolf] is on the board.
 When attacking an enemy with less than {p0}% HP, the target is charmed for {p1} second(s).
 Charmed targets will attack their own allies.","Hiệu ứng này chỉ được kích hoạt khi có 2 [Người sói] trở xuống trên bàn cờ.
 Khi tấn công kẻ địch có ít hơn {p0}% HP, mục tiêu sẽ bị mê hoặc trong {p1} giây.
-Mục tiêu bị quyến rũ sẽ tấn công đồng minh của chính họ.","该效果仅在场上的[狼人]数量为2个以下时发动。
+Mục tiêu bị quyến rũ sẽ tấn công đồng minh của họ.","该效果仅在场上的[狼人]数量为2个以下时发动。
 当攻击生命值低于 {p0}% 的敌人时，目标会被魅惑 {p1} 秒。
 被迷住的目标会攻击自己的盟友。",,"この効果は盤面に『ウェアウルフ』が２枚以下の場合に発動する。
-HPが {p0}% 未満の敵を攻撃すると、ターゲットは {p1} 秒間魅了されます。
+HPが{p0}%未満の敵を攻撃すると、ターゲットは{p1}秒間魅了されます。
 魅了されたターゲットは自分の味方を攻撃します。","Cet effet n'est activé que lorsqu'il y a 2 [Loups-garous] ou moins sur le plateau.
 Lorsqu'elle attaque un ennemi avec moins de {p0} % de PV, la cible est charmée pendant {p1} seconde(s).
 Les cibles charmées attaqueront leurs propres alliés.","Dieser Effekt wird nur aktiviert, wenn sich 2 oder weniger [Werwolf] auf dem Spielbrett befinden.
@@ -1139,12 +1139,12 @@ Sasalakayin ng mga mapang-akit na target ang sarili nilang mga kaalyado.","Efek 
 Saat menyerang musuh dengan HP kurang dari {p0}%, target akan terkena efek terpesona selama {p1} detik.
 Target yang terpesona akan menyerang sekutunya sendiri.","เอฟเฟกต์นี้ใช้งานได้เมื่อมี [มนุษย์หมาป่า] 2 ตัวหรือน้อยกว่าอยู่บนกระดานเท่านั้น
 เมื่อโจมตีศัตรูที่มี HP น้อยกว่า {p0}% เป้าหมายจะถูกร่ายมนต์เป็นเวลา {p1} วินาที
-เป้าหมายที่ถูก Charm จะโจมตีพันธมิตรของพวกเขาเอง","Bu etki yalnızca tahtada 2 veya daha az [Kurtadam] olduğunda etkinleştirilir.
+เป้าหมายที่ถูกมนต์เสน่ห์จะโจมตีพันธมิตรของพวกเขาเอง","Bu etki yalnızca tahtada 2 veya daha az [Kurtadam] olduğunda etkinleştirilir.
 HP'si %{p0}'den az olan bir düşmana saldırırken, hedef {p1} saniye boyunca büyülenir.
 Büyülenen hedefler kendi müttefiklerine saldıracak."
 TXT_HERO_WINDY_SPEAR_DES,"Every gesture unleashes a storm.
 Transforms {p0} seconds after starting a round and gains {p1}% attack speed.","Mỗi cử chỉ đều giải phóng một cơn bão.
-Biến đổi {p0} giây sau khi bắt đầu hiệp và nhận được {p1}% tốc độ tấn công.","每一个动作都会引发风暴。
+Biến đổi {p0} giây sau khi bắt đầu hiệp và nhận được {p1}% tốc độ tấn công.","每一个举动都会引发风暴。
 回合开始后 {p0} 秒变形并获得 {p1}% 攻击速度。",,"あらゆるジェスチャーが嵐を引き起こします。
 ラウンド開始から {p0} 秒後に変身し、攻撃速度が {p1}% 増加します。","Chaque geste déclenche une tempête.
 Se transforme {p0} secondes après le début d'un tour et gagne {p1} % de vitesse d'attaque.","Jede Geste löst einen Sturm aus.
