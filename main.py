@@ -40,7 +40,25 @@ def extract_from_all_csvs(folder_path, output_dir):
         print(f"✅ Saved {filename} ({len(char_set)} characters)")
 
 
+def merge_output_files(output_dir, merged_filename="merged_characters.txt"):
+    merged_chars = set()
+    output_path = os.path.join(output_dir, merged_filename)
+
+    txt_files = glob.glob(os.path.join(output_dir, "*.txt"))
+    for txt_file in txt_files:
+        with open(txt_file, "r", encoding="utf-8") as f:
+            merged_chars.update(f.read())
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write("".join(sorted(merged_chars)))
+
+    print(
+        f"📝 Merged file saved as '{merged_filename}' with {len(merged_chars)} unique characters."
+    )
+
+
 folder_with_csvs = "localization_files"
 output_folder = "char_output"
 
 extract_from_all_csvs(folder_with_csvs, output_folder)
+merge_output_files(output_folder)

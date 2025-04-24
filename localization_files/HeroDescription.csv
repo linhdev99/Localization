@@ -1,8 +1,8 @@
-Keys,English,Vietnamese,Chinese (Simplified),$Chinese (Traditional),Japanese,French,German,Spanish,Portuguese [pt-PT],Arabic,Russian,Korean,Italian,Hindi,Philipine [tl],Indo,Thai,Turkis
+Keys,English,Vietnamese,Chinese (Simplified),Japanese,French,German,Spanish,Portuguese [pt-PT],Arabic,Russian,Korean,Italian,Hindi,Philipine [tl],Indo,Thai,Turkis
 TXT_HERO_AQUA_FREEZER_DES,"A radiant girl of light with a warm smile and wings of hope — she shines wherever she goes.
 Decreases the target's attack speed by {p0}% for {p1} second(s) on every attack. (max stack: {p2})","Một cô gái ánh sáng rạng rỡ với nụ cười ấm áp và đôi cánh hy vọng - cô ấy tỏa sáng ở bất cứ nơi nào cô ấy đến.
 Giảm tốc độ tấn công của mục tiêu xuống {p0}% trong {p1} giây trên mỗi đòn tấn công. (ngăn xếp tối đa: {p2})","一个带着温暖微笑和希望翅膀的光芒四射的女孩——无论走到哪里，她都会闪闪发光。
-每次攻击将目标的攻击速度降低 {p0}%，持续 {p1} 秒。 （最大堆栈：{p2}）",,"温かい笑顔と希望の翼を持つ、どこまでも輝く光の少女。
+每次攻击将目标的攻击速度降低 {p0}%，持续 {p1} 秒。 （最大堆栈：{p2}）","温かい笑顔と希望の翼を持つ、どこまでも輝く光の少女。
 攻撃するたびに、ターゲットの攻撃速度が {p1} 秒間 {p0}% 減少します。 (最大スタック: {p2})","Une fille de lumière rayonnante avec un sourire chaleureux et des ailes d’espoir – elle brille partout où elle va.
 Réduit la vitesse d'attaque de la cible de {p0} % pendant {p1} seconde(s) à chaque attaque. (pile maximale : {p2})","Ein strahlendes Mädchen voller Licht mit einem warmen Lächeln und Flügeln der Hoffnung – sie strahlt, wohin sie auch geht.
 Verringert die Angriffsgeschwindigkeit des Ziels bei jedem Angriff {p1} Sekunde(n) lang um {p0} %. (maximaler Stapel: {p2})","Una niña radiante de luz con una cálida sonrisa y alas de esperanza: brilla donde quiera que vaya.
@@ -26,7 +26,7 @@ Khi {p0} Anh hùng bị đánh bại trong bán kính, Anh hùng sẽ tăng cư�
 Khi được cường hóa, bắn một tia laze gây {p1} sát thương ","身为龙的英雄，可以凭借其技能用激光束进行攻击。
 该效果仅在场上有1只【青龙】时发动。
 当{p0}英雄在半径范围内被击败时，该英雄的攻击力会增强。
-增强后，发射激光，造成 {p1} 伤害 ",,"ドラゴンの姿をしており、スキルでレーザー光線による攻撃ができる主人公。
+增强后，发射激光，造成 {p1} 伤害 ","ドラゴンの姿をしており、スキルでレーザー光線による攻撃ができる主人公。
 この効果は盤面に「アズール・ドラゴン」１体が存在する場合に発動できる。
 {p0} 人のヒーローが半径内で倒されると、ヒーローは攻撃を強化します。
 強化すると、{p1} にダメージを与えるレーザーを発射します。 ","Un héros qui est un dragon et qui peut attaquer avec un rayon laser grâce à ses compétences.
@@ -72,7 +72,7 @@ Geliştirildiğinde, {p1} hasar veren bir lazer ateşler "
 TXT_HERO_BARRIER_BREAKER_DES,"A loyal and brave hero who can create a protective barrier for allies attack enemies with his sword slash.
 Provides {p0} barrier to all allies within a 1-cell radius at the start of a round.","Một anh hùng trung thành và dũng cảm có thể tạo ra hàng rào bảo vệ cho đồng minh tấn công kẻ thù bằng nhát kiếm của mình.
 Cung cấp rào chắn {p0} cho tất cả đồng minh trong bán kính 1 ô khi bắt đầu hiệp.","忠诚勇敢的英雄，可以用剑斩击敌人，为盟友创造保护屏障。
-在回合开始时为 1 格半径内的所有盟友提供 {p0} 屏障。",,"味方の防御バリアを築き、剣で敵を攻撃できる忠実で勇敢なヒーローです。
+在回合开始时为 1 格半径内的所有盟友提供 {p0} 屏障。","味方の防御バリアを築き、剣で敵を攻撃できる忠実で勇敢なヒーローです。
 ラウンド開始時に半径 1 セル以内の味方全員に {p0} バリアを提供します。","Un héros loyal et courageux qui peut créer une barrière protectrice pour les alliés et attaquer les ennemis avec son épée.
 Fournit une barrière de {p0} à tous les alliés dans un rayon d'une cellule au début d'un tour.","Ein treuer und mutiger Held, der mit seinem Schwerthieb eine Schutzbarriere für Verbündete errichten kann, die Feinde angreifen.
 Bietet zu Beginn einer Runde eine {p0}-Barriere für alle Verbündeten innerhalb eines Radius von 1 Zelle.","Un héroe leal y valiente que puede crear una barrera protectora para que los aliados ataquen a los enemigos con su espada.
@@ -90,7 +90,7 @@ Bir turun başında 1 hücrelik yarıçap içindeki tüm müttefiklere {p0} bari
 TXT_HERO_BERSERK_DES,"A masked wolf warrior — stalks in silence, strikes like a nightmare in the wild.
 Increases damage by {p0}% when current HP drops below {p1}%.","Một chiến binh sói đeo mặt nạ - rình rập trong im lặng, tấn công như một cơn ác mộng nơi hoang dã.
 Tăng sát thương thêm {p0}% khi HP hiện tại giảm xuống dưới {p1}%.","蒙面狼战士——悄无声息地潜行，像荒野中的噩梦一样袭击。
-当前生命值低于 {p1}% 时，伤害增加 {p0}%。",,"仮面をかぶったオオカミの戦士 — 沈黙のうちに闊歩し、野生の中で悪夢のように襲いかかる。
+当前生命值低于 {p1}% 时，伤害增加 {p0}%。","仮面をかぶったオオカミの戦士 — 沈黙のうちに闊歩し、野生の中で悪夢のように襲いかかる。
 現在の HP が {p1}% を下回ると、ダメージが {p0}% 増加します。","Un guerrier loup masqué – marche en silence, frappe comme un cauchemar dans la nature.
 Augmente les dégâts de {p0} % lorsque les PV actuels tombent en dessous de {p1} %.","Ein maskierter Wolfskrieger – schleicht schweigend umher und schlägt wie ein Albtraum in der Wildnis zu.
 Erhöht den Schaden um {p0} %, wenn die aktuellen HP unter {p1} % fallen.","Un guerrero lobo enmascarado: acecha en silencio, ataca como una pesadilla en la naturaleza.
@@ -108,7 +108,7 @@ Mevcut HP %{p1}'in altına düştüğünde hasarı %{p0} artırır."
 TXT_HERO_BOMBARDIER_DES,"Appears in a blink, and strikes in silence.
 When defeated, deals {p0} damage to all enemies within a 1-cell radius.","Xuất hiện trong nháy mắt và tấn công trong im lặng.
 Khi bị đánh bại, gây {p0} sát thương cho tất cả kẻ địch trong bán kính 1 ô.","眨眼间出现，无声无息地袭来。
-被击败后，对 1 格半径内的所有敌人造成 {p0} 点伤害。",,"瞬きして現れ、静かに攻撃する。
+被击败后，对 1 格半径内的所有敌人造成 {p0} 点伤害。","瞬きして現れ、静かに攻撃する。
 敗北すると、半径 1 セル以内の敵全員に {p0} のダメージを与えます。","Apparaît en un clin d'œil et frappe en silence.
 Une fois vaincu, inflige {p0} dégâts à tous les ennemis dans un rayon d'une cellule.","Erscheint blitzschnell und schlägt schweigend zu.
 Wenn er besiegt wird, fügt er allen Feinden im Umkreis von 1 Zelle {p0} Schaden zu.","Aparece en un abrir y cerrar de ojos y ataca en silencio.
@@ -126,7 +126,7 @@ Yenilgiye uğratıldığında, 1 hücrelik yarıçap içindeki tüm düşmanlara
 TXT_HERO_BRONZE_DEFENDER_DES,"An elder demon warrior with a colossal shield — the living wall that nothing gets past.
 Taunts all enemies within a 2-cell radius.","Một chiến binh quỷ lớn tuổi với tấm khiên khổng lồ - bức tường sống không gì có thể vượt qua.
 Chế nhạo tất cả kẻ thù trong bán kính 2 ô.","一位年长的恶魔战士，拥有巨大的盾牌——任何东西都无法逾越的生命之墙。
-嘲讽 2 格半径内的所有敌人。",,"巨大な盾――何物も乗り越えられない生きた壁を持つ老悪魔の戦士。
+嘲讽 2 格半径内的所有敌人。","巨大な盾――何物も乗り越えられない生きた壁を持つ老悪魔の戦士。
 半径 2 セル以内のすべての敵を挑発します。","Un guerrier démon aîné doté d’un bouclier colossal – le mur vivant que rien ne franchit.
 Provoque tous les ennemis dans un rayon de 2 cellules.","Ein älterer Dämonenkrieger mit einem kolossalen Schild – der lebenden Mauer, an der nichts vorbeikommt.
 Verspottet alle Feinde im Umkreis von 2 Zellen.","Un guerrero demonio anciano con un escudo colosal: el muro viviente que nada traspasa.
@@ -144,7 +144,7 @@ Mengejek semua musuh dalam radius 2 sel.","นักรบปีศาจผู�
 TXT_HERO_DEATH_HAMMER_DES,"A warrior of light wielding a mighty hammer — wherever he stands, darkness dares not follow.
 Insta-kills the target by {p0}% chance.","Một chiến binh ánh sáng cầm cây búa hùng mạnh - dù anh ta đứng ở đâu, bóng tối cũng không dám theo sau.
 Insta giết mục tiêu với {p0}% cơ hội.","挥舞着强大之锤的光之战士——无论他站到哪里，黑暗都不敢追随。
-以 {p0}% 的几率秒杀目标。",,"強力なハンマーを振るう光の戦士。彼がどこに立っていても、闇が後を追うことはありません。
+以 {p0}% 的几率秒杀目标。","強力なハンマーを振るう光の戦士。彼がどこに立っていても、闇が後を追うことはありません。
 {p0}% の確率でターゲットを即死させます。","Un guerrier de la lumière brandissant un puissant marteau : où qu'il se trouve, les ténèbres n'osent pas le suivre.
 Tue instantanément la cible avec {p0} % de chances.","Ein Krieger des Lichts, der einen mächtigen Hammer schwingt – wo immer er steht, die Dunkelheit wagt es nicht, ihm zu folgen.
 Tötet das Ziel sofort mit einer Wahrscheinlichkeit von {p0} %.","Un guerrero de la luz que empuña un poderoso martillo; donde quiera que esté, la oscuridad no se atreve a seguirlo.
@@ -162,7 +162,7 @@ Hedefi anında %{p0} şansla öldürür."
 TXT_HERO_ELECTRIC_CANON_DES,"A summoner from another dimension — his three eyes see beyond reality, and his companion? No one knows what it is...
 Until no availabel target is left, deals {p0}% inscreased damage to an enemy within a 1-cell radius to the main target with an electric arc.","Một triệu hồi sư đến từ không gian khác - ba con mắt của anh ta nhìn xa hơn thực tế, và người bạn đồng hành của anh ta? Không ai biết nó là gì...
 Cho đến khi không còn mục tiêu nào sẵn có, gây sát thương tăng thêm {p0}% cho kẻ địch trong bán kính 1 ô tới mục tiêu chính bằng hồ quang điện.","来自异次元的召唤师——他的三只眼睛超越了现实，而他的同伴呢？没有人知道那是什么...
-直到没有可用目标为止，用电弧对主目标 1 格半径内的敌人造成 {p0}% 的伤害。",,"異次元からの召喚者――その三つの目は現実の彼方を見る、そしてその仲間は？それが何なのか誰も知りません...
+直到没有可用目标为止，用电弧对主目标 1 格半径内的敌人造成 {p0}% 的伤害。","異次元からの召喚者――その三つの目は現実の彼方を見る、そしてその仲間は？それが何なのか誰も知りません...
 有効なターゲットがなくなるまで、電気アークでメイン ターゲットから半径 1 セル以内の敵に {p0}% 増加のダメージを与えます。","Un invocateur d'une autre dimension – ses trois yeux voient au-delà de la réalité, et son compagnon ? Personne ne sait ce que c'est...
 Jusqu'à ce qu'il ne reste plus aucune cible disponible, inflige {p0} % de dégâts supplémentaires à un ennemi dans un rayon de 1 cellule par rapport à la cible principale avec un arc électrique.","Ein Beschwörer aus einer anderen Dimension – seine drei Augen sehen über die Realität hinaus, und sein Begleiter? Niemand weiß, was es ist...
 Bis kein verfügbares Ziel mehr verfügbar ist, fügt es einem Feind innerhalb eines Radius von 1 Zelle um das Hauptziel mit einem elektrischen Lichtbogen {p0} % erhöhten Schaden zu.","Un invocador de otra dimensión: sus tres ojos ven más allá de la realidad, ¿y su compañero? Nadie sabe qué es...
@@ -186,7 +186,7 @@ Khả năng chuyển đổi dựa trên số lượng dấu chấm hiện tại.
 [Chẵn Không.] HP tăng {p3}% và khiêu khích tất cả kẻ thù trong phạm vi tấn công. Tuy nhiên, sát thương giảm {p2}%.","隐藏在阴影中，像死亡的低语一样引人注目。
 能力根据当前点数进行切换。
 [奇数]攻击范围增加1，伤害增加{p0}%。然而，HP 会减少 {p1}%。
-[偶数]生命值增加{p3}%，并嘲讽攻击范围内的所有敌人。然而，伤害减少{p2}%。",,"影に隠れて、死のささやきのように襲い掛かる。
+[偶数]生命值增加{p3}%，并嘲讽攻击范围内的所有敌人。然而，伤害减少{p2}%。","影に隠れて、死のささやきのように襲い掛かる。
 現在のドット数に応じて能力が切り替わります。
 [奇数] 攻撃範囲が 1 増加し、ダメージが {p0}% 増加します。ただし、HPは{p1}%減少します。
 [偶数] HPが{p3}%増加し、攻撃範囲内のすべての敵を挑発します。ただし、ダメージは {p2}% 減少します。","Caché dans l'ombre, frappant comme un murmure de mort.
@@ -238,7 +238,7 @@ Dự đoán thành công sẽ tăng vĩnh viễn giá trị tấn công thêm {p
 Ở vòng dự đoán thành công, giá trị tấn công của tất cả Tầm nhìn của Mắt sẽ tăng thêm {p1}%.","攻击速度快，消失速度快，只留下刺痛。
 当Oraclyn被召唤/合并时，如果敌人的英雄在效果范围内被召唤/合并，它就会成功“预测”。
 成功的预测将攻击值永久增加 {p0}。
-预测成功的回合，所有眼视觉的攻击值增加{p1}%。",,"素早く攻撃し、素早く消えて、刺し傷だけが残ります。
+预测成功的回合，所有眼视觉的攻击值增加{p1}%。","素早く攻撃し、素早く消えて、刺し傷だけが残ります。
 オラクリンの召喚・合体時、効果境界内に敵の英雄が召喚・合体すると「予知」に成功します。
 予測が成功すると、攻撃値が永続的に {p0} 増加します。
 予測が成功したラウンドでは、すべてのアイビジョンの攻撃値が {p1}% 増加します。","Frappe vite, disparaît plus vite et ne laisse que la piqûre.
@@ -284,7 +284,7 @@ Bir tahminin başarılı olduğu turda, tüm Göz Görüşünün saldırı değe
 TXT_HERO_FLAME_FURY_DES,"Gliding silently in the dark with glowing antlers — small but definitely not to be messed with.
 Deals {p0} additional damage to all enemies within a 1-cell radius of the target. ","Lặng lẽ lướt đi trong bóng tối với những chiếc gạc phát sáng - nhỏ nhưng chắc chắn không thể làm phiền.
 Gây thêm {p0} sát thương cho tất cả kẻ địch trong bán kính 1 ô tính từ mục tiêu. ","带着发光的鹿角在黑暗中悄无声息地滑翔——虽然很小，但绝对不会被弄乱。
-对目标 1 格半径内的所有敌人造成 {p0} 点额外伤害。 ",,"光る角で暗闇の中を静かに滑空します。小さいですが、絶対にいじってはいけません。
+对目标 1 格半径内的所有敌人造成 {p0} 点额外伤害。 ","光る角で暗闇の中を静かに滑空します。小さいですが、絶対にいじってはいけません。
 ターゲットから半径 1 セル以内にいるすべての敵に {p0} の追加ダメージを与えます。 ","Glisser silencieusement dans le noir avec des bois brillants – petits mais certainement pas dérangeants.
 Inflige {p0} dégâts supplémentaires à tous les ennemis dans un rayon d'1 cellule autour de la cible. ","Mit leuchtenden Geweihen lautlos durch die Dunkelheit gleiten – klein, aber definitiv nicht zu verachten.
 Fügt allen Feinden in einem Umkreis von 1 Zelle um das Ziel {p0} zusätzlichen Schaden zu. ","Deslizándose silenciosamente en la oscuridad con astas brillantes: pequeño pero definitivamente no hay que meterse con él.
@@ -302,7 +302,7 @@ Hedefin 1 hücrelik yarıçapındaki tüm düşmanlara {p0} ek hasar verir. "
 TXT_HERO_FLORA_BLOOM_DES,"A lightning-fast warrior with a golden energy blade — blink and you’ll miss the strike!.
 Heals {p0} HP of all allies within a 1-cell radius every {p1} second(s)","Một chiến binh nhanh như chớp với lưỡi kiếm năng lượng vàng - chớp mắt và bạn sẽ trượt đòn đánh!.
 Hồi phục {p0} HP cho tất cả đồng minh trong bán kính 1 ô mỗi {p1} giây","一名拥有金色能量剑、速度如闪电的战士——眨眼就会错过攻击！
-每 {p1} 秒治疗 1 格半径内所有盟友的 {p0} 生命值",,"黄金のエネルギーブレードを持った電光石火の戦士です。まばたきすると攻撃を逃してしまいます。
+每 {p1} 秒治疗 1 格半径内所有盟友的 {p0} 生命值","黄金のエネルギーブレードを持った電光石火の戦士です。まばたきすると攻撃を逃してしまいます。
 {p1} 秒ごとに半径 1 セル以内の味方全員の HP {p0} を回復します","Un guerrier ultra-rapide avec une lame d'énergie dorée : clignez des yeux et vous manquerez le coup !.
 Soigne {p0} HP de tous les alliés dans un rayon d'une cellule toutes les {p1} seconde(s).","Ein blitzschneller Krieger mit einer goldenen Energieklinge – blinzele und du verfehlst den Schlag!
 Heilt alle {p1} Sekunde(n) {p0} HP aller Verbündeten innerhalb eines 1-Feld-Radius.","Un guerrero veloz como el rayo con una espada de energía dorada: ¡parpadea y fallarás el golpe!
@@ -332,7 +332,7 @@ Sau khi chế nhạo kết thúc, phạm vi tấn công tăng thêm 1 và giá t
 在一轮开始时，嘲讽 2 格半径内的所有敌人，持续 {p0} 秒。
 来自被嘲讽的敌人的基本攻击伤害减少 {p1}%。
 每嘲讽一个敌人，此能力就会降低 {p2}%。
-嘲讽结束后，攻击范围增加1，攻击值增加{p3}%。",,"ガーゴイルの聖域から来た暗くて強力なガーゴイル。
+嘲讽结束后，攻击范围增加1，攻击值增加{p3}%。","ガーゴイルの聖域から来た暗くて強力なガーゴイル。
 この効果は盤面に「ガーゴイル」が２枚以下の場合に発動する。
 ラウンドの開始時に、半径 2 セル以内のすべての敵を {p0} 秒間挑発します。
 挑発された敵から受ける基本攻撃ダメージが {p1}% 減少します。
@@ -406,7 +406,7 @@ Alay bittikten sonra saldırı menzili 1 artar ve saldırı değeri %{p3} artar.
 TXT_HERO_HELL_DART_DES,"A tech-powered twinblade warrior — strikes in a flash and vanishes before the dust settles.
 Provides [Insta-kill] to all Hero within a 1-cell radius. Hero with [Insta-kill] has a {p0}% chance to defeat a target instantly.","Một chiến binh song kiếm được hỗ trợ công nghệ - tấn công trong nháy mắt và biến mất trước khi bụi lắng xuống.
 Cung cấp [Insta-kill] cho tất cả Anh hùng trong bán kính 1 ô. Anh hùng có [Insta-kill] có {p0}% cơ hội đánh bại mục tiêu ngay lập tức.","一名科技驱动的双刃战士——一闪而出，在尘埃落定之前消失。
-为1格半径内的所有英雄提供[秒杀]。拥有[秒杀]的英雄有 {p0}% 的几率立即击败目标。",,"テクノロジーを駆使した双刃の戦士 — 一瞬で攻撃を加え、塵が静まる前に消えます。
+为1格半径内的所有英雄提供[秒杀]。拥有[秒杀]的英雄有 {p0}% 的几率立即击败目标。","テクノロジーを駆使した双刃の戦士 — 一瞬で攻撃を加え、塵が静まる前に消えます。
 半径1セル以内にいるヒーロー全員に[インスタキル]を与えます。 [インスタキル]を持つヒーローは、{p0}%の確率でターゲットを瞬時に倒すことができます。","Un guerrier à double lame doté de technologies technologiques – frappe en un éclair et disparaît avant que la poussière ne retombe.
 Fournit [Insta-kill] à tous les héros dans un rayon d'une cellule. Le héros avec [Insta-kill] a {p0} % de chances de vaincre une cible instantanément.","Ein technisch angetriebener Zwillingsklingenkrieger – schlägt blitzschnell zu und verschwindet, bevor sich der Staub legt.
 Bietet [Insta-Kill] für alle Helden im Umkreis von 1 Zelle. Ein Held mit [Insta-Kill] hat eine Chance von {p0} %, ein Ziel sofort zu besiegen.","Un guerrero de espadas gemelas con tecnología: ataca en un instante y desaparece antes de que el polvo se asiente.
@@ -427,7 +427,7 @@ When summoned or merged, has a {p2}% chance of becoming a Divine Archer with a {
 Có {p0}% cơ hội gây sát thương {p1} cho tất cả kẻ địch trên một đường thẳng.
 Khi được triệu hồi hoặc hợp nhất, có {p2}% cơ hội trở thành Cung thủ thần thánh với mức sát thương kỹ năng tăng {p3}%.","身着骨制装备和锋利长矛的狂野女猎手。
 有 {p0}% 的几率对直线上的所有敌人造成 {p1} 点伤害。
-召唤或融合时，有 {p2}% 几率成为神弓手，技能伤害增加 {p3}%。",,"骨の装備と鋭い槍を身に着けた野生の狩人。
+召唤或融合时，有 {p2}% 几率成为神弓手，技能伤害增加 {p3}%。","骨の装備と鋭い槍を身に着けた野生の狩人。
 {p0}%の確率で直線上のすべての敵に{p1}のダメージを与えます。
 召喚または融合すると、{p2}% の確率でディバイン アーチャーになり、スキル ダメージが {p3}% 増加します。","Une chasseresse sauvage vêtue d'un équipement en os et d'une lance tranchante comme un rasoir.
 A {p0} % de chances d'infliger {p1} dégâts à tous les ennemis en ligne droite.
@@ -462,7 +462,7 @@ When summoned or merged, has a {p2}% chance of becoming a Divine Blade with a {p
 Có {p0}% cơ hội gây thêm {p1}% sát thương tương ứng với HP tối đa của mục tiêu.
 Khi được triệu hồi hoặc hợp nhất, có {p2}% cơ hội trở thành Divine Blade với mức tăng sát thương kỹ năng là {p3}%.","戴着狐精面具的阴暗忍者。
 有 {p0}% 几率对目标最大生命值造成额外 {p1}% 伤害。
-召唤或融合时，有 {p2}% 几率成为神剑，技能伤害增加 {p3}%。",,"狐の面を被った影の忍者。
+召唤或融合时，有 {p2}% 几率成为神剑，技能伤害增加 {p3}%。","狐の面を被った影の忍者。
 ターゲットの最大 HP に比例して追加の {p1}% ダメージを与える {p0}% のチャンスがあります。
 召喚または融合すると、{p2}% の確率でディバイン ブレードになり、スキル ダメージが {p3}% 増加します。","Un ninja ténébreux avec un masque d'esprit de renard.
 A une capacité de {p0} % à infliger une proportion de dégâts supplémentaires de {p1} % par rapport aux PV max de la cible.
@@ -494,7 +494,7 @@ Hedefin maksimum HP'sine oranla %{p1} oranında ek hasar verme şansına %{p0} s
 TXT_HERO_INVINCIBLE_QUEEN_DES,"A radiant forest spirit who brings blossoms wherever she goes — nature’s magic in motion.
 All Heroes within a 1-cell raidus become invincible for {p0} second(s) when their HP drops below {p1}%","Một tinh linh rừng rực rỡ mang hoa đến bất cứ nơi nào cô ấy đến - sự kỳ diệu của thiên nhiên đang chuyển động.
 Tất cả các Anh hùng trong cuộc đột kích 1 ô đều trở nên bất khả chiến bại trong {p0} giây khi HP của họ giảm xuống dưới {p1}%","光芒四射的森林精灵，无论走到哪里都会绽放花朵——大自然的魔力在流动。
-当 1 格团队内的所有英雄生命值低于 {p1}% 时，他们将在 {p0} 秒内变得无敌",,"どこに行っても花を咲かせる、輝く森の精霊。自然の魔法が動きます。
+当 1 格团队内的所有英雄生命值低于 {p1}% 时，他们将在 {p0} 秒内变得无敌","どこに行っても花を咲かせる、輝く森の精霊。自然の魔法が動きます。
 1 セル レイダス内のすべてのヒーローは、HP が {p1}% を下回ると、{p0} 秒間無敵になります","Un esprit forestier radieux qui apporte des fleurs partout où elle va – la magie de la nature en mouvement.
 Tous les héros d'un raidus à 1 cellule deviennent invincibles pendant {p0} seconde(s) lorsque leurs PV tombent en dessous de {p1} %","Ein strahlender Waldgeist, der überall, wo er hingeht, Blüten bringt – die Magie der Natur in Bewegung.
 Alle Helden innerhalb eines Raidus mit einer Zelle werden für {p0} Sekunde(n) unbesiegbar, wenn ihre HP unter {p1} % fallen.","Un espíritu del bosque radiante que trae flores dondequiera que vaya: la magia de la naturaleza en movimiento.
@@ -512,7 +512,7 @@ Semua Pahlawan dalam serangan 1 sel menjadi tak terkalahkan selama {p0} detik ke
 TXT_HERO_IRON_BREAKER_DES,"A red-skinned warrior in dark armor with a killer glare — one swing and it's game over.
 Deals an additional {p0}% damage proportional to the target's current HP.","Một chiến binh da đỏ trong bộ áo giáp đen với ánh mắt sát thủ - chỉ cần vung một đòn là trò chơi kết thúc.
 Gây thêm {p0}% sát thương tương ứng với HP hiện tại của mục tiêu.","一名穿着深色盔甲的红皮肤战士，眼神充满杀气——一击，游戏就结束了。
-造成与目标当前 HP 成比例的额外 {p0}% 伤害。",,"黒い鎧を着た赤い肌の戦士で、キラーな輝きを放つ――一振りでゲームオーバーだ。
+造成与目标当前 HP 成比例的额外 {p0}% 伤害。","黒い鎧を着た赤い肌の戦士で、キラーな輝きを放つ――一振りでゲームオーバーだ。
 ターゲットの現在の HP に比例して追加の {p0}% ダメージを与えます。","Un guerrier à la peau rouge en armure sombre avec un regard meurtrier – un coup et la partie est terminée.
 Inflige {p0} % de dégâts supplémentaires proportionnels aux PV actuels de la cible.","Ein rothäutiger Krieger in dunkler Rüstung mit einem mörderischen Blick – ein Schlag und das Spiel ist vorbei.
 Verursacht zusätzlich {p0} % Schaden proportional zu den aktuellen HP des Ziels.","Un guerrero de piel roja con armadura oscura y una mirada asesina: un golpe y se acabó el juego.
@@ -530,7 +530,7 @@ Hedefin mevcut HP'sine orantılı olarak ilave %{p0} hasar verir."
 TXT_HERO_JUDICATOR_DES,"The coin-casting prodigy.
 When defeating a target, deals {p0} damage to an enemy with the lowest HP and all Hero within a 1-cell radius.","Thần đồng đúc tiền xu.
 Khi đánh bại một mục tiêu, gây {p0} sát thương cho kẻ địch có HP thấp nhất và tất cả Anh hùng trong bán kính 1 ô.","铸币奇才。
-击败目标时，对生命值最低的敌人以及1格半径内的所有英雄造成{p0}点伤害。",,"コイン鋳造の天才。
+击败目标时，对生命值最低的敌人以及1格半径内的所有英雄造成{p0}点伤害。","コイン鋳造の天才。
 ターゲットを倒すと、HP が最も低い敵と半径 1 セル以内のヒーロー全員に {p0} のダメージを与えます。","Le prodige du lancer de pièces de monnaie.
 Lorsque vous battez une cible, inflige {p0} dégâts à un ennemi avec les PV les plus bas et à tous les héros dans un rayon d'une cellule.","Das Wunderkind des Münzwerfens.
 Wenn ein Ziel besiegt wird, fügt es einem Feind mit den niedrigsten HP und allen Helden im Umkreis von 1 Zelle {p0} Schaden zu.","El prodigio de la fundición de monedas.
@@ -548,7 +548,7 @@ Bir hedefi yenerken, en düşük HP'ye sahip bir düşmana ve 1 hücrelik yarı�
 TXT_HERO_LEVEL_CRUSHER_DES,"The ring king from the wild — every punch roars with the power of a true lion.
 Permanently increases damage by {p0} when defeating a target.","Vua nhẫn đến từ nơi hoang dã - mỗi cú đấm gầm lên với sức mạnh của một con sư tử thực thụ.
 Tăng sát thương vĩnh viễn thêm {p0} khi đánh bại mục tiêu.","来自野外的擂台之王——每一拳都带着真正狮子的力量咆哮。
-击败目标时，永久增加伤害 {p0}。",,"野生のリングキング — すべてのパンチが真のライオンの力で轟きます。
+击败目标时，永久增加伤害 {p0}。","野生のリングキング — すべてのパンチが真のライオンの力で轟きます。
 ターゲットを倒すと永続的にダメージが {p0} 増加します。","Le roi des anneaux venu de la nature : chaque coup de poing rugit avec la puissance d'un vrai lion.
 Augmente de manière permanente les dégâts de {p0} lorsque vous battez une cible.","Der Ringkönig aus der Wildnis – jeder Schlag brüllt mit der Kraft eines wahren Löwen.
 Erhöht den Schaden beim Besiegen eines Ziels dauerhaft um {p0}.","El rey del ring de la naturaleza: cada golpe ruge con el poder de un verdadero león.
@@ -566,7 +566,7 @@ Bir hedefi mağlup ederken hasarı kalıcı olarak {p0} arttırır."
 TXT_HERO_LIGHTNING_SPEED_DES,"A masked conjurer from the shadows — holding powers that even the bravest dare not face.
 Provides {p0}% attack speed bonus to all allies within a 1-cell radius.","Một pháp sư đeo mặt nạ đến từ bóng tối - nắm giữ sức mạnh mà ngay cả người dũng cảm nhất cũng không dám đối mặt.
 Cung cấp phần thưởng tốc độ tấn công {p0}% cho tất cả đồng minh trong bán kính 1 ô.","来自阴影的蒙面魔术师——拥有连最勇敢的人都不敢面对的力量。
-为 1 格半径内的所有盟友提供 {p0}% 攻击速度加成。",,"影から現れる仮面をかぶった手品師。最も勇敢な者ですら立ち向かう勇気のない力を持っています。
+为 1 格半径内的所有盟友提供 {p0}% 攻击速度加成。","影から現れる仮面をかぶった手品師。最も勇敢な者ですら立ち向かう勇気のない力を持っています。
 半径 1 セル内のすべての味方に {p0}% の攻撃速度ボーナスを与えます。","Un prestidigitateur masqué sorti de l'ombre, détenant des pouvoirs que même les plus courageux n'osent pas affronter.
 Fournit {p0} % de bonus de vitesse d'attaque à tous les alliés dans un rayon d'une cellule.","Ein maskierter Zauberer aus den Schatten – mit Kräften, denen selbst die Mutigsten nicht entgegenzutreten wagen.
 Bietet allen Verbündeten im Umkreis von 1 Zelle einen Angriffsgeschwindigkeitsbonus von {p0} %.","Un prestidigitador enmascarado de las sombras que posee poderes que ni siquiera los más valientes se atreven a afrontar.
@@ -587,7 +587,7 @@ Basic attack is enabled when the Hero is unlocked.","Một anh hùng thông minh
 Khóa Anh hùng trong bán kính 1 ô, vô hiệu hóa các đòn tấn công cơ bản trong {p0} giây.
 Tấn công cơ bản được kích hoạt khi Anh hùng được mở khóa.","聪明狡猾的英雄，可以用锁定章鱼及时锁定目标，并用章鱼之手攻击敌人。
 将英雄锁定在 1 格半径内，在 {p0} 秒内禁用基本攻击。
-英雄解锁后即可启用基本攻击。",,"ロックタコでタイミングよくターゲットをロックし、タコの手で敵を攻撃できる、賢くてトリッキーなヒーローです。
+英雄解锁后即可启用基本攻击。","ロックタコでタイミングよくターゲットをロックし、タコの手で敵を攻撃できる、賢くてトリッキーなヒーローです。
 ヒーローを半径 1 セル以内にロックし、{p0} 秒間通常攻撃を無効にします。
 ヒーローのロックが解除されると、基本攻撃が有効になります。","Un héros intelligent et rusé qui peut verrouiller la cible à temps avec sa pieuvre verrouillable et attaquer les ennemis avec ses mains de pieuvre.
 Verrouille un héros dans un rayon d'une cellule, désactivant les attaques de base pendant {p0} seconde(s).
@@ -628,7 +628,7 @@ Kích hoạt các hiệu ứng đặc biệt theo số lượng [Âm lịch] tr�
 1 格半径内的所有盟友英雄都会获得 {p0}% 的攻击速度加成。
 根据棋盘上【农历】的数量激活特殊效果。
 [3 个月球] 1 格半径内的所有盟友英雄都会获得 {p1}% 暴击率加成。
-[5 个月亮] 1 格半径内的所有盟友英雄都会获得 {p2}% 暴击率加成。",," 古代術の訓練を受けた猫族の戦士。
+[5 个月亮] 1 格半径内的所有盟友英雄都会获得 {p2}% 暴击率加成。"," 古代術の訓練を受けた猫族の戦士。
 半径 1 セル以内にいるすべての味方ヒーローは、{p0}% の攻撃速度ボーナスを受け取ります。
 盤面の【ルナー】の数に応じて特殊効果が発動します。
 [3 Lunars] 半径 1 セル内のすべての味方ヒーローは、{p1}% のクリティカル チャンス ボーナスを受け取ります。
@@ -688,7 +688,7 @@ Tahtadaki [Ay] sayısına göre özel efektleri etkinleştirir.
 TXT_HERO_METEOR_DRAGON_DES,"An ancient elemental beast wielding fire — every step shakes the very forces of nature.
 Summons meteor to a random enemy after {p0} basic attacks.","Một con thú nguyên tố cổ xưa cầm lửa - mỗi bước đi đều làm rung chuyển chính sức mạnh của tự nhiên.
 Triệu hồi thiên thạch đến một kẻ địch ngẫu nhiên sau {p0} đòn tấn công cơ bản.","古老的元素兽挥舞着火焰——每一步都震撼着自然的力量。
-在 {p0} 次基本攻击后向随机敌人召唤流星。",,"火を操る古代の精霊獣。一歩一歩が自然の力そのものを揺るがします。
+在 {p0} 次基本攻击后向随机敌人召唤流星。","火を操る古代の精霊獣。一歩一歩が自然の力そのものを揺るがします。
 {p0} 回の基本攻撃後にランダムな敵に隕石を召喚します。","Une ancienne bête élémentaire brandissant le feu : chaque pas ébranle les forces mêmes de la nature.
 Invoque un météore sur un ennemi aléatoire après {p0} attaques de base.","Ein uraltes Elementartier, das Feuer schwingt – jeder Schritt erschüttert die Kräfte der Natur.
 Beschwört nach {p0} normalen Angriffen einen Meteor zu einem zufälligen Feind.","Una antigua bestia elemental que empuña fuego: cada paso sacude las fuerzas mismas de la naturaleza.
@@ -706,7 +706,7 @@ Memanggil meteor ke musuh acak setelah {p0} serangan dasar.","สัตว์ร
 TXT_HERO_MODIFIED_ELECTRIC_DES,"A smart and powerful hero who can deal AOE damage with his electric canon and attack enemies with his canon zap.
 Until no availabel target is left, deals {p0}% inscreased damage to an enemy within a 1-cell radius to the main target with an electric arc.","Một anh hùng thông minh và mạnh mẽ, người có thể gây sát thương AOE bằng khẩu pháo điện của mình và tấn công kẻ thù bằng cú bắn pháo của mình.
 Cho đến khi không còn mục tiêu nào sẵn có, gây sát thương tăng thêm {p0}% cho kẻ địch trong bán kính 1 ô tới mục tiêu chính bằng hồ quang điện.","聪明而强大的英雄，可以用电炮造成范围伤害，并用电炮攻击敌人。
-直到没有可用目标为止，用电弧对主目标 1 格半径内的敌人造成 {p0}% 的伤害。",,"エレクトリックカノンで範囲ダメージを与え、カノンザップで敵を攻撃できる、賢くて強力なヒーローです。
+直到没有可用目标为止，用电弧对主目标 1 格半径内的敌人造成 {p0}% 的伤害。","エレクトリックカノンで範囲ダメージを与え、カノンザップで敵を攻撃できる、賢くて強力なヒーローです。
 有効なターゲットがなくなるまで、電気アークでメイン ターゲットから半径 1 セル以内の敵に {p0}% 増加のダメージを与えます。","Un héros intelligent et puissant qui peut infliger des dégâts AOE avec son canon électrique et attaquer les ennemis avec son canon zap.
 Jusqu'à ce qu'il ne reste plus aucune cible disponible, inflige {p0} % de dégâts supplémentaires à un ennemi dans un rayon de 1 cellule par rapport à la cible principale avec un arc électrique.","Ein intelligenter und mächtiger Held, der mit seiner elektrischen Kanone AOE-Schaden verursachen und Feinde mit seinem Kanonenstoß angreifen kann.
 Bis kein verfügbares Ziel mehr verfügbar ist, fügt es einem Feind innerhalb eines Radius von 1 Zelle um das Hauptziel mit einem elektrischen Lichtbogen {p0} % erhöhten Schaden zu.","Un héroe inteligente y poderoso que puede causar daño AOE con su cañón eléctrico y atacar a los enemigos con su cañón.
@@ -727,7 +727,7 @@ Does not affect other Rebirth Angel","Một con quỷ nhỏ quyến rũ với đ
 Khi bị đánh bại, sẽ khiến một Anh hùng trong bán kính 1 ô sống lại với {p0}% HP.
 Không ảnh hưởng đến Thiên thần tái sinh khác","一个迷人的小恶魔，拥有催眠般的眼睛和蝙蝠翅膀——外表甜美，内心致命。
 被击败后，可使 1 格半径内的一名英雄以 {p0}% 生命值复活。
-不影响其他重生天使",,"催眠術のような目とコウモリの羽を持つ魅力的な小さな悪魔。外見は甘く、裏では恐ろしい。
+不影响其他重生天使","催眠術のような目とコウモリの羽を持つ魅力的な小さな悪魔。外見は甘く、裏では恐ろしい。
 敗北すると、半径 1 セル以内にいるヒーロー 1 人を {p0}% の HP で生き返らせます。
 他の転生天使には影響しない","Un charmant petit démon aux yeux hypnotiques et aux ailes de chauve-souris – doux à l'extérieur, mortel en dessous.
 Une fois vaincu, redonne vie à un héros dans un rayon d'une cellule avec {p0} % de PV.
@@ -768,7 +768,7 @@ Nó cũng tăng giá trị tấn công của tất cả đồng minh thêm {p3} 
 该效果仅在场上有1个[沼泽之颚]时发动。
 被击败后，英雄会变成一颗拥有 {p0}% 生命值的蛋，并在 {p1} 秒后复活。
 复活后，英雄会对 2 格半径内的所有敌人造成 {p2} 点伤害。
-复活后所有盟友的攻击值也会增加{p3}。",,"沼地の喧嘩屋ワニ — すべてのパンチにはジャングルの野生の力が詰まっています。
+复活后所有盟友的攻击值也会增加{p3}。","沼地の喧嘩屋ワニ — すべてのパンチにはジャングルの野生の力が詰まっています。
 この効果は盤面に「スワンプジョー」が１枚存在する場合に発動する。
 敗北すると、ヒーローは {p0}% の HP を持つ卵に変わり、{p1} 秒後に復活します。
 復活すると、ヒーローは半径 2 セル以内のすべての敵に {p2} のダメージを与えます。
@@ -828,7 +828,7 @@ Ayrıca dirilişten sonra tüm müttefiklerin saldırı değerini {p3} artırır
 TXT_HERO_SNIPER_SHOOTER_DES," This bunny techie may look confused, but with dual blasters in hand — he's cutely dangerous.
 Damage increases by {p0}% for each cell between him and the target."," Anh chàng kỹ thuật viên thỏ này có thể trông bối rối, nhưng với súng nổ kép trong tay - anh ta cực kỳ nguy hiểm.
 Sát thương tăng thêm {p0}% cho mỗi ô giữa anh ta và mục tiêu."," 这位兔子技术人员可能看起来很困惑，但手里拿着双爆能枪 - 他非常危险。
-他和目标之间每有一个格子，伤害就会增加 {p0}%。",," このウサギの技術者は混乱しているように見えるかもしれませんが、デュアルブラスターを手に持っているので、とても危険です。
+他和目标之间每有一个格子，伤害就会增加 {p0}%。"," このウサギの技術者は混乱しているように見えるかもしれませんが、デュアルブラスターを手に持っているので、とても危険です。
 ダメージは、彼とターゲットの間の各セルごとに {p0}% 増加します。"," Ce lapin technicien peut paraître confus, mais avec deux blasters en main, il est terriblement dangereux.
 Les dégâts augmentent de {p0} % pour chaque cellule entre lui et la cible."," Dieser Hasen-Technikfreak sieht vielleicht verwirrt aus, aber mit zwei Blastern in der Hand ist er niedlich gefährlich.
 Der Schaden erhöht sich um {p0} % für jede Zelle zwischen ihm und dem Ziel."," Este conejito técnico puede parecer confundido, pero con dos desintegradores en la mano, es tiernamente peligroso.
@@ -852,7 +852,7 @@ Kích hoạt các hiệu ứng đặc biệt theo số lượng [Solar] trên b�
 [5 Solars] Gây {p1}% sát thương lan cho kẻ địch ở gần mục tiêu chính.","凶猛的小炎龙，体型小，火力大。
 根据棋盘上[太阳]的数量激活特殊效果
 [3 Solars] 对主要目标附近的敌人造成 {p0}% 溅射伤害
-[5 太阳] 对主要目标附近的敌人造成 {p1}% 溅射伤害。",,"獰猛な小さな炎のドラゴン - 小さくても大きな火力。
+[5 太阳] 对主要目标附近的敌人造成 {p1}% 溅射伤害。","獰猛な小さな炎のドラゴン - 小さくても大きな火力。
 盤面の[ソーラー]の数に応じて特殊効果が発動
 [3 ソーラー] メインターゲットに隣接する敵に {p0}% のスプラッシュダメージを与えます
 [5 ソーラー] メインターゲットに隣接する敵に {p1}% のスプラッシュダメージを与えます。","Un féroce petit dragon de flammes – de petite taille, mais doté d'une grande puissance de feu.
@@ -898,7 +898,7 @@ Tahtadaki [Solar] sayısına göre özel efektleri etkinleştirir
 TXT_HERO_SOUL_REAPER_DES,"A hero who holds a magic wand and can increase his damage, HP, and speed when his allies die.
 Increases damage, attack speed, and HP by {p0}% each time an ally Hero is defeated within a 2-cell radius.","Một anh hùng cầm cây đũa thần và có thể tăng sát thương, HP và tốc độ khi đồng minh của anh ta chết.
 Tăng sát thương, tốc độ tấn công và HP thêm {p0}% mỗi khi Anh hùng đồng minh bị đánh bại trong bán kính 2 ô.","持有魔杖的英雄，当盟友死亡时可以增加伤害、生命值和速度。
-每次在 2 格半径内击败一名盟友英雄时，伤害、攻击速度和生命值都会提高 {p0}%。",,"魔法の杖を持ち、味方が死亡するとダメージ、HP、スピードが増加する英雄。
+每次在 2 格半径内击败一名盟友英雄时，伤害、攻击速度和生命值都会提高 {p0}%。","魔法の杖を持ち、味方が死亡するとダメージ、HP、スピードが増加する英雄。
 半径 2 セル以内で味方ヒーローが倒されるたびに、ダメージ、攻撃速度、HP が {p0}% 増加します。","Un héros qui tient une baguette magique et peut augmenter ses dégâts, ses PV et sa vitesse lorsque ses alliés meurent.
 Augmente les dégâts, la vitesse d'attaque et les PV de {p0} % à chaque fois qu'un héros allié est vaincu dans un rayon de 2 cellules.","Ein Held, der einen Zauberstab besitzt und seinen Schaden, seine HP und seine Geschwindigkeit erhöhen kann, wenn seine Verbündeten sterben.
 Erhöht Schaden, Angriffsgeschwindigkeit und HP jedes Mal um {p0} %, wenn ein verbündeter Held innerhalb eines Radius von 2 Zellen besiegt wird.","Un héroe que sostiene una varita mágica y puede aumentar su daño, HP y velocidad cuando sus aliados mueren.
@@ -916,7 +916,7 @@ Meningkatkan kerusakan, kecepatan serangan, dan HP sebesar {p0}% setiap kali Pah
 TXT_HERO_SPEAR_SPLASH_DES,"A four-armed whirlwind of blades — strikes fast, vanishes faster.
 Deals additional {p0} damage to 1 enemy right behind the main target.","Một cơn lốc bốn lưỡi kiếm – tấn công nhanh, biến mất nhanh hơn.
 Gây thêm {p0} sát thương cho 1 kẻ địch ngay phía sau mục tiêu chính.","四臂刀刃旋风——来得快，消失得也快。
-对主要目标后面的 1 名敌人造成额外 {p0} 点伤害。",,"4 本の腕を持つ刃の旋風 - 素早く攻撃し、より速く消えます。
+对主要目标后面的 1 名敌人造成额外 {p0} 点伤害。","4 本の腕を持つ刃の旋風 - 素早く攻撃し、より速く消えます。
 メインターゲットの真後ろにいる敵 1 人に追加の {p0} ダメージを与えます。","Un tourbillon de lames à quatre bras – frappe vite, disparaît plus vite.
 Inflige {p0} dégâts supplémentaires à 1 ennemi juste derrière la cible principale.","Ein vierarmiger Wirbelwind aus Klingen – schlägt schnell zu und verschwindet schneller.
 Fügt 1 Feind direkt hinter dem Hauptziel zusätzlichen {p0} Schaden zu.","Un torbellino de espadas de cuatro brazos: golpea rápido, desaparece más rápido.
@@ -943,7 +943,7 @@ Hiệu ứng áp dụng cho cả đồng minh và kẻ thù có cùng cấp sao.
 战斗中所有友方攻击速度增加3%。
 场上有3名文马志斋时，所有敌人的攻击速度降低15%。
 如果场上有5个文马志斋，则所有敌人的攻击速度降低25%。
-效果适用于具有相同星级的盟友和敌人。",,"彼のあらゆる詠唱があなたの運命を決定します。
+效果适用于具有相同星级的盟友和敌人。","彼のあらゆる詠唱があなたの運命を決定します。
 戦闘中の味方全員の攻撃速度が3%増加します。
 フィールド上にブンマシサイが3体いる場合、敵全体の攻撃速度が15％ダウン。
 フィールド上にブンマシサイが5体いる場合、敵全体の攻撃速度が25%ダウン。
@@ -1003,7 +1003,7 @@ Etkiler aynı yıldız seviyesine sahip hem müttefiklere hem de düşmanlara uy
 TXT_HERO_STEEL_BLADER_DES,"A horned beast-warrior with glowing eyes and a deadly blade — getting close is a bad idea.
 Capable of dealing high damage despite the low attack range.","Một chiến binh quái thú có sừng với đôi mắt phát sáng và lưỡi kiếm chết người - đến gần là một ý tưởng tồi.
 Có khả năng gây sát thương cao dù tầm tấn công thấp.","一个长角的野兽战士，眼睛发光，手持致命的刀刃——靠近可不是个好主意。
-尽管攻击范围较小，但仍能造成高伤害。",,"光る目と恐ろしい刃を持った角のある獣の戦士。近づくのは得策ではありません。
+尽管攻击范围较小，但仍能造成高伤害。","光る目と恐ろしい刃を持った角のある獣の戦士。近づくのは得策ではありません。
 攻撃範囲が狭いにもかかわらず、高いダメージを与えることができる。","Un guerrier-bête cornu avec des yeux brillants et une lame mortelle : s'approcher est une mauvaise idée.
 Capable d'infliger des dégâts importants malgré la faible portée d'attaque.","Ein gehörnter Tierkrieger mit leuchtenden Augen und einer tödlichen Klinge – näher heranzukommen ist keine gute Idee.
 Kann trotz geringer Angriffsreichweite hohen Schaden verursachen.","Una bestia guerrera con cuernos, ojos brillantes y una espada mortal: acercarse es una mala idea.
@@ -1021,7 +1021,7 @@ Düşük saldırı menziline rağmen yüksek hasar verme kapasitesine sahiptir."
 TXT_HERO_TELEPORT_SAMURAI_DES,"A royal blade master with lightning moves and unwavering loyalty — swift, sharp, and unstoppable.
 Teleports to a random cell when HP drops below {p0}%.","Một bậc thầy kiếm thuật hoàng gia với những bước di chuyển nhanh như chớp và lòng trung thành không lay chuyển - nhanh nhẹn, sắc bén và không thể ngăn cản.
 Dịch chuyển đến một ô ngẫu nhiên khi HP giảm xuống dưới {p0}%.","一位皇家剑术大师，拥有闪电般的动作和坚定不移的忠诚——迅速、锋利、势不可挡。
-当 HP 低于 {p0}% 时传送到随机单元。",,"電光石火の動きと揺るぎない忠誠心を備えたロイヤルブレードマスターであり、素早く、鋭く、そして止められません。
+当 HP 低于 {p0}% 时传送到随机单元。","電光石火の動きと揺るぎない忠誠心を備えたロイヤルブレードマスターであり、素早く、鋭く、そして止められません。
 HPが{p0}%を下回ると、ランダムなセルにテレポートします。","Un maître de l'épée royal doté de mouvements fulgurants et d'une loyauté inébranlable : rapide, tranchant et imparable.
 Se téléporte vers une cellule aléatoire lorsque HP descend en dessous de {p0}%.","Ein königlicher Klingenmeister mit blitzschnellen Bewegungen und unerschütterlicher Loyalität – schnell, scharfsinnig und unaufhaltsam.
 Teleportiert sich zu einer zufälligen Zelle, wenn die HP unter {p0} % fallen.","Un maestro de la espada real con movimientos relámpagos y una lealtad inquebrantable: rápido, agudo e imparable.
@@ -1042,7 +1042,7 @@ The summoned Hero instantly recovers {p0}% of its max HP.","Một anh hùng sử
 Khi bị đánh bại, triệu hồi một Anh hùng đồng minh có số chấm cao nhất về vị trí của nó.
 Anh hùng được triệu hồi ngay lập tức hồi phục {p0}% HP tối đa của nó.","拥有有毒物质并能在盟友死亡后复活的英雄。
 被击败后，召唤一名点数最多的盟友英雄到其位置。
-召唤的英雄立即恢复其最大生命值的 {p0}%。",,"有毒物質を操り、仲間が死亡しても蘇生できる英雄。
+召唤的英雄立即恢复其最大生命值的 {p0}%。","有毒物質を操り、仲間が死亡しても蘇生できる英雄。
 敗北すると、最もドット数の多い味方ヒーローをその位置に召喚します。
 召喚されたヒーローは即座に最大 HP の {p0}% を回復します。","Un héros qui manie une substance toxique et peut ressusciter ses alliés lorsqu'ils meurent.
 Une fois vaincu, invoque un héros allié avec le nombre de points le plus élevé à sa position.
@@ -1074,7 +1074,7 @@ Yenilgiye uğradığında, en yüksek nokta sayısına sahip bir müttefik Kahra
 TXT_HERO_VAMPIRE_GIRL_DES,"A seductive and dangerous hero who can steal enemy HP with her vampire girl and attack enemies with her fang bite.
 Provides [Absorb] to all allies within a 1-cell radius. Hero with [Absorb] can steal the target's HP by {p0}% of its damage.","Một anh hùng quyến rũ và nguy hiểm có thể đánh cắp HP của kẻ thù bằng cô gái ma cà rồng của mình và tấn công kẻ thù bằng vết cắn của răng nanh.
 Cung cấp [Hấp thụ] cho tất cả đồng minh trong bán kính 1 ô. Anh hùng có [Hấp thụ] có thể hút HP của mục tiêu bằng {p0}% sát thương của mục tiêu.","一个诱人而危险的英雄，可以用她的吸血鬼女孩窃取敌人的生命值，并用她的尖牙咬合攻击敌人。
-为1格半径内的所有盟友提供[吸收]。拥有[吸收]的英雄可以窃取目标伤害的{p0}%生命值。",,"吸血鬼の少女で敵のHPを奪い、牙を噛んで敵を攻撃する、魅惑的で危険なヒーロー。
+为1格半径内的所有盟友提供[吸收]。拥有[吸收]的英雄可以窃取目标伤害的{p0}%生命值。","吸血鬼の少女で敵のHPを奪い、牙を噛んで敵を攻撃する、魅惑的で危険なヒーロー。
 半径1マス以内の味方全員に[吸収]を与える。 [吸収]を持つヒーローはターゲットのHPをダメージの{p0}%盗むことができます。","Un héros séduisant et dangereux qui peut voler les HP de l'ennemi avec sa fille vampire et attaquer les ennemis avec sa morsure de croc.
 Fournit [Absorber] à tous les alliés dans un rayon d’une cellule. Le héros avec [Absorb] peut voler les PV de la cible à hauteur de {p0} % de ses dégâts.","Eine verführerische und gefährliche Heldin, die mit ihrem Vampirmädchen feindliche HP stehlen und Feinde mit ihrem Fangbiss angreifen kann.
 Verleiht allen Verbündeten im Umkreis von 1 Zelle [Absorbieren]. Ein Held mit [Absorbieren] kann die HP des Ziels um {p0} % seines Schadens stehlen.","Una heroína seductora y peligrosa que puede robar HP al enemigo con su chica vampiro y atacar a los enemigos con su mordisco.
@@ -1092,7 +1092,7 @@ Memberikan [Menyerap] ke semua sekutu dalam radius 1 sel. Pahlawan dengan [Absor
 TXT_HERO_VOLTIX_DES,"A masked gunslinger from the wild west.
 Creates an electric arc that deals {p0} damage to an enemy within a 1-cell radius of the target","Một tay súng đeo mặt nạ đến từ miền Tây hoang dã.
 Tạo ra một hồ quang điện gây {p0} sát thương cho kẻ địch trong bán kính 1 ô tính từ mục tiêu","来自狂野西部的蒙面枪手。
-产生一道电弧，对目标 1 格半径内的敌人造成 {p0} 点伤害",,"西部開拓時代からやってきた覆面のガンマン。
+产生一道电弧，对目标 1 格半径内的敌人造成 {p0} 点伤害","西部開拓時代からやってきた覆面のガンマン。
 電気アークを発生させ、ターゲットから半径 1 セル以内の敵に {p0} のダメージを与えます","Un flingueur masqué du Far West.
 Crée un arc électrique qui inflige {p0} dégâts à un ennemi dans un rayon d'1 cellule autour de la cible.","Ein maskierter Revolverheld aus dem Wilden Westen.
 Erzeugt einen elektrischen Lichtbogen, der einem Feind im Umkreis von 1 Zelle um das Ziel {p0} Schaden zufügt","Un pistolero enmascarado del salvaje oeste.
@@ -1113,7 +1113,7 @@ Charmed targets will attack their own allies.","Hiệu ứng này chỉ được
 Khi tấn công kẻ địch có ít hơn {p0}% HP, mục tiêu sẽ bị mê hoặc trong {p1} giây.
 Mục tiêu bị quyến rũ sẽ tấn công đồng minh của họ.","该效果仅在场上的[狼人]数量为2个以下时发动。
 当攻击生命值低于 {p0}% 的敌人时，目标会被魅惑 {p1} 秒。
-被迷住的目标会攻击自己的盟友。",,"この効果は盤面に『ウェアウルフ』が２枚以下の場合に発動する。
+被迷住的目标会攻击自己的盟友。","この効果は盤面に『ウェアウルフ』が２枚以下の場合に発動する。
 HPが{p0}%未満の敵を攻撃すると、ターゲットは{p1}秒間魅了されます。
 魅了されたターゲットは自分の味方を攻撃します。","Cet effet n'est activé que lorsqu'il y a 2 [Loups-garous] ou moins sur le plateau.
 Lorsqu'elle attaque un ennemi avec moins de {p0} % de PV, la cible est charmée pendant {p1} seconde(s).
@@ -1145,7 +1145,7 @@ Büyülenen hedefler kendi müttefiklerine saldıracak."
 TXT_HERO_WINDY_SPEAR_DES,"Every gesture unleashes a storm.
 Transforms {p0} seconds after starting a round and gains {p1}% attack speed.","Mỗi cử chỉ đều giải phóng một cơn bão.
 Biến đổi {p0} giây sau khi bắt đầu hiệp và nhận được {p1}% tốc độ tấn công.","每一个举动都会引发风暴。
-回合开始后 {p0} 秒变形并获得 {p1}% 攻击速度。",,"あらゆるジェスチャーが嵐を引き起こします。
+回合开始后 {p0} 秒变形并获得 {p1}% 攻击速度。","あらゆるジェスチャーが嵐を引き起こします。
 ラウンド開始から {p0} 秒後に変身し、攻撃速度が {p1}% 増加します。","Chaque geste déclenche une tempête.
 Se transforme {p0} secondes après le début d'un tour et gagne {p1} % de vitesse d'attaque.","Jede Geste löst einen Sturm aus.
 Verwandelt sich {p0} Sekunden nach Beginn einer Runde und erhöht die Angriffsgeschwindigkeit um {p1} %.","Cada gesto desata una tormenta.
@@ -1163,7 +1163,7 @@ Bir tura başladıktan sonra {p0} saniye sonra dönüşür ve %{p1} saldırı h�
 TXT_HERO_WIND_DANCER_DES,"Tiny but full of guts!
 Deals damage to a farthest target with a high attack speed","Nhỏ bé nhưng đầy can đảm!
 Gây sát thương lên mục tiêu xa nhất với tốc độ tấn công cao","虽小但胆量十足！
-以高攻击速度对最远的目标造成伤害",,"小さいけど根性たっぷり！
+以高攻击速度对最远的目标造成伤害","小さいけど根性たっぷり！
 高い攻撃速度で最も遠くのターゲットにダメージを与えます","Petit mais plein de cran !
 Inflige des dégâts à une cible la plus éloignée avec une vitesse d'attaque élevée","Winzig, aber voller Mut!
 Fügt einem am weitesten entfernten Ziel mit hoher Angriffsgeschwindigkeit Schaden zu","¡Pequeño pero lleno de agallas!
